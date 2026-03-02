@@ -1,0 +1,7 @@
+{“DESIGN_NAME": "ALU", 
+  "VERILOG_FILES": ["dir::ALU.v"], 
+  "CLOCK_PERIOD": 5, 
+  "CLOCK_PORT": "clock", 
+  "DIE_AREA": [0,0,350,350], 
+  "CORE_AREA": [35,35,315,315], 
+  "FP_SIZING": "absolute”} 
