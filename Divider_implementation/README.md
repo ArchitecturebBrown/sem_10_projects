@@ -12,4 +12,4 @@ The Newton-Raphson divider uses an iterative algorithm to perform division opera
 ## Tools Used
 - **Icarus Verilog** - Simulation and verification
 - **GTKWave** - Waveform viewing and analysis
-- **Yosys** - Synthesis tool for all target platforms
+- **Yosys** - Synthesis tool for all target platforms (Xc7, Skywater 130, GF180MCU)
