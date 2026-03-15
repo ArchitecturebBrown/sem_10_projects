@@ -1,6 +1,4 @@
-// ==========================================================
-// 2. Top-Level Divider - Verilog-2001
-// ==========================================================
+
 module nr_divider_top(
     input clk, rst,
     input signed [31:0] dividend, divisor,
