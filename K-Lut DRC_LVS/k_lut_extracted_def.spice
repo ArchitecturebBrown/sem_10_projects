@@ -1,0 +1,2020 @@
+* NGSPICE file created from Lut.ext - technology: sky130A
+
+* Black-box entry subcircuit for sky130_fd_sc_hd__fill_2 abstract view
+.subckt sky130_fd_sc_hd__fill_2 VGND VNB VPB VPWR
+.ends
+
+* Black-box entry subcircuit for sky130_fd_sc_hd__tapvpwrvgnd_1 abstract view
+.subckt sky130_fd_sc_hd__tapvpwrvgnd_1 VGND VPWR
+.ends
+
+* Black-box entry subcircuit for sky130_fd_sc_hd__nand2_1 abstract view
+.subckt sky130_fd_sc_hd__nand2_1 A B VGND VNB VPB VPWR Y
+.ends
+
+* Black-box entry subcircuit for sky130_fd_sc_hd__fill_1 abstract view
+.subckt sky130_fd_sc_hd__fill_1 VGND VNB VPB VPWR
+.ends
+
+* Black-box entry subcircuit for sky130_fd_sc_hd__decap_4 abstract view
+.subckt sky130_fd_sc_hd__decap_4 VGND VNB VPB VPWR
+.ends
+
+* Black-box entry subcircuit for sky130_fd_sc_hd__nand2b_1 abstract view
+.subckt sky130_fd_sc_hd__nand2b_1 A_N B VGND VNB VPB VPWR Y
+.ends
+
+* Black-box entry subcircuit for sky130_fd_sc_hd__fill_8 abstract view
+.subckt sky130_fd_sc_hd__fill_8 VGND VNB VPB VPWR
+.ends
+
+* Black-box entry subcircuit for sky130_fd_sc_hd__lpflow_isobufsrc_1 abstract view
+.subckt sky130_fd_sc_hd__lpflow_isobufsrc_1 A SLEEP VGND VNB VPB VPWR X
+.ends
+
+* Black-box entry subcircuit for sky130_fd_sc_hd__mux2_8 abstract view
+.subckt sky130_fd_sc_hd__mux2_8 A0 A1 S VGND VNB VPB VPWR X
+.ends
+
+* Black-box entry subcircuit for sky130_fd_sc_hd__xnor2_1 abstract view
+.subckt sky130_fd_sc_hd__xnor2_1 A B VGND VNB VPB VPWR Y
+.ends
+
+* Black-box entry subcircuit for sky130_fd_sc_hd__clkbuf_4 abstract view
+.subckt sky130_fd_sc_hd__clkbuf_4 A VGND VNB VPB VPWR X
+.ends
+
+* Black-box entry subcircuit for sky130_fd_sc_hd__xor2_1 abstract view
+.subckt sky130_fd_sc_hd__xor2_1 A B VGND VNB VPB VPWR X
+.ends
+
+* Black-box entry subcircuit for sky130_fd_sc_hd__fill_4 abstract view
+.subckt sky130_fd_sc_hd__fill_4 VGND VNB VPB VPWR
+.ends
+
+* Black-box entry subcircuit for sky130_fd_sc_hd__nor2_1 abstract view
+.subckt sky130_fd_sc_hd__nor2_1 A B VGND VNB VPB VPWR Y
+.ends
+
+* Black-box entry subcircuit for sky130_fd_sc_hd__clkbuf_16 abstract view
+.subckt sky130_fd_sc_hd__clkbuf_16 A VGND VNB VPB VPWR X
+.ends
+
+* Black-box entry subcircuit for sky130_fd_sc_hd__o22ai_1 abstract view
+.subckt sky130_fd_sc_hd__o22ai_1 A1 A2 B1 B2 VGND VNB VPB VPWR Y
+.ends
+
+* Black-box entry subcircuit for sky130_fd_sc_hd__a21oi_1 abstract view
+.subckt sky130_fd_sc_hd__a21oi_1 A1 A2 B1 VGND VNB VPB VPWR Y
+.ends
+
+* Black-box entry subcircuit for sky130_fd_sc_hd__o21ai_0 abstract view
+.subckt sky130_fd_sc_hd__o21ai_0 A1 A2 B1 VGND VNB VPB VPWR Y
+.ends
+
+* Black-box entry subcircuit for sky130_fd_sc_hd__a31oi_1 abstract view
+.subckt sky130_fd_sc_hd__a31oi_1 A1 A2 A3 B1 VGND VNB VPB VPWR Y
+.ends
+
+* Black-box entry subcircuit for sky130_fd_sc_hd__nor3_1 abstract view
+.subckt sky130_fd_sc_hd__nor3_1 A B C VGND VNB VPB VPWR Y
+.ends
+
+* Black-box entry subcircuit for sky130_fd_sc_hd__maj3_1 abstract view
+.subckt sky130_fd_sc_hd__maj3_1 A B C VGND VNB VPB VPWR X
+.ends
+
+* Black-box entry subcircuit for sky130_fd_sc_hd__or3_1 abstract view
+.subckt sky130_fd_sc_hd__or3_1 A B C VGND VNB VPB VPWR X
+.ends
+
+* Black-box entry subcircuit for sky130_fd_sc_hd__a21o_1 abstract view
+.subckt sky130_fd_sc_hd__a21o_1 A1 A2 B1 VGND VNB VPB VPWR X
+.ends
+
+* Black-box entry subcircuit for sky130_fd_sc_hd__lpflow_inputiso1p_1 abstract view
+.subckt sky130_fd_sc_hd__lpflow_inputiso1p_1 A SLEEP VGND VNB VPB VPWR X
+.ends
+
+* Black-box entry subcircuit for sky130_fd_sc_hd__clkinv_1 abstract view
+.subckt sky130_fd_sc_hd__clkinv_1 A VGND VNB VPB VPWR Y
+.ends
+
+* Black-box entry subcircuit for sky130_fd_sc_hd__dfrtp_1 abstract view
+.subckt sky130_fd_sc_hd__dfrtp_1 CLK D RESET_B VGND VNB VPB VPWR Q
+.ends
+
+* Black-box entry subcircuit for sky130_fd_sc_hd__o31ai_1 abstract view
+.subckt sky130_fd_sc_hd__o31ai_1 A1 A2 A3 B1 VGND VNB VPB VPWR Y
+.ends
+
+* Black-box entry subcircuit for sky130_fd_sc_hd__nand3_1 abstract view
+.subckt sky130_fd_sc_hd__nand3_1 A B C VGND VNB VPB VPWR Y
+.ends
+
+* Black-box entry subcircuit for sky130_fd_sc_hd__nor2b_1 abstract view
+.subckt sky130_fd_sc_hd__nor2b_1 A B_N VGND VNB VPB VPWR Y
+.ends
+
+* Black-box entry subcircuit for sky130_fd_sc_hd__o41a_4 abstract view
+.subckt sky130_fd_sc_hd__o41a_4 A1 A2 A3 A4 B1 VGND VNB VPB VPWR X
+.ends
+
+.subckt Lut a[0] a[1] a[2] a[3] a[4] b[0] b[1] b[2] b[3] b[4] clk out[0] out[1] out[2]
++ out[3] out[4] reset s[0] s[1] sync
+XFILLER_12_32 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_2
+XFILLER_5_4 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_2
+XTAP_TAPCELL_ROW_11_142 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_062_ b[1] a[1] VSUBS VSUBS _124_/VPB _124_/VPB _084_/B sky130_fd_sc_hd__nand2_1
+XFILLER_9_77 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_1
+XPHY_EDGE_ROW_12_Left_25 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__decap_4
+X_114_ _124_/Q sync VSUBS VSUBS _124_/VPB _124_/VPB _114_/Y sky130_fd_sc_hd__nand2b_1
+XFILLER_6_45 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+XFILLER_11_0 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+XTAP_TAPCELL_ROW_9_116 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_2_57 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_3_57 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+XPHY_EDGE_ROW_12_Right_12 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__decap_4
+XFILLER_12_77 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_1
+XPHY_EDGE_ROW_0_Left_13 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__decap_4
+X_061_ a[1] b[1] VSUBS VSUBS _124_/VPB _124_/VPB _061_/X sky130_fd_sc_hd__lpflow_isobufsrc_1
+XFILLER_9_12 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_2
+X_113_ _120_/D _120_/Q sync VSUBS VSUBS _124_/VPB _124_/VPB out[0] sky130_fd_sc_hd__mux2_8
+XPHY_EDGE_ROW_6_Right_6 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__decap_4
+XTAP_TAPCELL_ROW_2_58 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_12_45 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+XTAP_TAPCELL_ROW_9_117 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_060_ b[2] a[2] VSUBS VSUBS _124_/VPB _124_/VPB _084_/A sky130_fd_sc_hd__xnor2_1
+XFILLER_1_0 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_1
+X_112_ _121_/D _121_/Q sync VSUBS VSUBS _124_/VPB _124_/VPB out[1] sky130_fd_sc_hd__mux2_8
+XTAP_TAPCELL_ROW_9_118 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_6_90 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_2_59 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_12_24 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+XTAP_TAPCELL_ROW_11_134 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_111_ _122_/D _122_/Q sync VSUBS VSUBS _124_/VPB _124_/VPB out[2] sky130_fd_sc_hd__mux2_8
+XFILLER_9_47 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+XTAP_TAPCELL_ROW_6_91 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_9_119 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_3_49 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+XTAP_TAPCELL_ROW_3_70 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_12_69 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+XTAP_TAPCELL_ROW_11_135 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XPHY_EDGE_ROW_4_Left_17 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__decap_4
+XPHY_EDGE_ROW_7_Left_20 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__decap_4
+Xclkload0 _124_/CLK VSUBS VSUBS _124_/VPB _124_/VPB clkload0/X sky130_fd_sc_hd__clkbuf_4
+X_110_ _123_/D _123_/Q sync VSUBS VSUBS _124_/VPB _124_/VPB out[3] sky130_fd_sc_hd__mux2_8
+XTAP_TAPCELL_ROW_6_92 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_12_37 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+XTAP_TAPCELL_ROW_11_136 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_6_93 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_8_110 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_12_16 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+XTAP_TAPCELL_ROW_11_137 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_099_ b[4] a[4] VSUBS VSUBS _124_/VPB _124_/VPB _102_/A sky130_fd_sc_hd__xor2_1
+XTAP_TAPCELL_ROW_0_40 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_7_61 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_4
+XTAP_TAPCELL_ROW_6_94 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_6_29 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_1
+XPHY_EDGE_ROW_1_Right_1 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__decap_4
+XTAP_TAPCELL_ROW_11_138 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_8_111 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_3_62 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_0_30 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_0_41 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_098_ b[4] a[4] VSUBS VSUBS _124_/VPB _124_/VPB _108_/B sky130_fd_sc_hd__nor2_1
+XTAP_TAPCELL_ROW_6_95 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_8_112 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+Xclkbuf_0_clk clk VSUBS VSUBS _124_/VPB _124_/VPB clkbuf_0_clk/X sky130_fd_sc_hd__clkbuf_16
+XTAP_TAPCELL_ROW_3_63 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_11_139 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_097_ s[1] _091_/B _066_/Y _096_/Y VSUBS VSUBS _124_/VPB _124_/VPB _120_/D sky130_fd_sc_hd__o22ai_1
+XTAP_TAPCELL_ROW_0_31 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_0_42 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XPHY_EDGE_ROW_11_Left_24 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__decap_4
+XFILLER_11_8 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_4
+XFILLER_10_40 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+XTAP_TAPCELL_ROW_6_96 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_8_113 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_7_74 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_4
+XTAP_TAPCELL_ROW_3_64 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_8_0 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_4
+XTAP_TAPCELL_ROW_0_32 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_0_43 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_10_52 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_4
+XFILLER_10_30 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_1
+XTAP_TAPCELL_ROW_6_97 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_096_ s[0] s[1] VSUBS VSUBS _124_/VPB _124_/VPB _096_/Y sky130_fd_sc_hd__nor2_1
+XFILLER_1_54 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_4
+XTAP_TAPCELL_ROW_8_114 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_7_42 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_2
+XFILLER_7_31 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_4
+X_079_ b[3] a[3] s[0] VSUBS VSUBS _124_/VPB _124_/VPB _080_/C sky130_fd_sc_hd__a21oi_1
+XPHY_EDGE_ROW_5_Right_5 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__decap_4
+XTAP_TAPCELL_ROW_10_130 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_4_32 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_4
+XTAP_TAPCELL_ROW_3_65 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_095_ _089_/Y _090_/X _094_/Y VSUBS VSUBS _124_/VPB _124_/VPB _121_/D sky130_fd_sc_hd__o21ai_0
+XTAP_TAPCELL_ROW_0_33 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_1_22 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_4
+X_078_ _078_/A _104_/C VSUBS VSUBS _124_/VPB _124_/VPB _078_/X sky130_fd_sc_hd__xor2_1
+XPHY_EDGE_ROW_11_Right_11 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__decap_4
+XTAP_TAPCELL_ROW_8_115 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_7_65 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_1
+XTAP_TAPCELL_ROW_3_66 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_10_131 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_4_77 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_1
+XTAP_TAPCELL_ROW_0_34 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_094_ _084_/C _077_/X _091_/Y _093_/Y VSUBS VSUBS _124_/VPB _124_/VPB _094_/Y sky130_fd_sc_hd__a31oi_1
+X_077_ s[1] s[0] VSUBS VSUBS _124_/VPB _124_/VPB _077_/X sky130_fd_sc_hd__lpflow_isobufsrc_1
+XTAP_TAPCELL_ROW_10_132 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_3_67 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_093_ s[1] _093_/B _093_/C VSUBS VSUBS _124_/VPB _124_/VPB _093_/Y sky130_fd_sc_hd__nor3_1
+XTAP_TAPCELL_ROW_0_35 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XPHY_EDGE_ROW_3_Left_16 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__decap_4
+X_076_ b[2] a[2] _076_/C VSUBS VSUBS _124_/VPB _124_/VPB _104_/C sky130_fd_sc_hd__maj3_1
+XTAP_TAPCELL_ROW_6_89 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_059_ b[2] a[2] VSUBS VSUBS _124_/VPB _124_/VPB _086_/B sky130_fd_sc_hd__nor2_1
+XPHY_EDGE_ROW_9_Right_9 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__decap_4
+XFILLER_7_23 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+XFILLER_7_12 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_2
+XTAP_TAPCELL_ROW_3_68 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_10_133 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_8_4 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_2
+XFILLER_4_24 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+XTAP_TAPCELL_ROW_0_36 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_092_ b[1] a[1] s[0] VSUBS VSUBS _124_/VPB _124_/VPB _093_/C sky130_fd_sc_hd__a21oi_1
+XFILLER_10_56 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_1
+X_075_ _084_/A _076_/C VSUBS VSUBS _124_/VPB _124_/VPB _075_/Y sky130_fd_sc_hd__nand2b_1
+X_058_ b[3] a[3] VSUBS VSUBS _124_/VPB _124_/VPB _078_/A sky130_fd_sc_hd__xor2_1
+XTAP_TAPCELL_ROW_8_107 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_4_47 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_2
+XFILLER_4_36 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_1
+XTAP_TAPCELL_ROW_3_69 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_4_69 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+XTAP_TAPCELL_ROW_0_26 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_0_37 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_074_ _093_/B _091_/B _084_/B VSUBS VSUBS _124_/VPB _124_/VPB _076_/C sky130_fd_sc_hd__o21ai_0
+XFILLER_10_35 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_1
+X_091_ _091_/A _091_/B VSUBS VSUBS _124_/VPB _124_/VPB _091_/Y sky130_fd_sc_hd__nand2_1
+XFILLER_1_26 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_1
+XTAP_TAPCELL_ROW_8_108 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_7_14 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_1
+X_057_ b[3] a[3] VSUBS VSUBS _124_/VPB _124_/VPB _080_/B sky130_fd_sc_hd__nor2_1
+XPHY_EDGE_ROW_0_Right_0 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__decap_4
+X_109_ _109_/A _109_/B _109_/C VSUBS VSUBS _124_/VPB _124_/VPB _124_/D sky130_fd_sc_hd__or3_1
+XFILLER_8_6 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_1
+XTAP_TAPCELL_ROW_0_27 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_0_38 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_090_ _091_/A _089_/B _103_/A VSUBS VSUBS _124_/VPB _124_/VPB _090_/X sky130_fd_sc_hd__a21o_1
+X_073_ _091_/A _091_/B VSUBS VSUBS _124_/VPB _124_/VPB _084_/C sky130_fd_sc_hd__lpflow_inputiso1p_1
+X_056_ reset VSUBS VSUBS _124_/VPB _124_/VPB _056_/Y sky130_fd_sc_hd__clkinv_1
+XFILLER_4_0 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+X_108_ s[1] _108_/B _108_/C VSUBS VSUBS _124_/VPB _124_/VPB _109_/C sky130_fd_sc_hd__nor3_1
+XTAP_TAPCELL_ROW_8_109 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_10_125 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_0_28 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_0_39 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_4_16 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+X_072_ _078_/A _072_/B VSUBS VSUBS _124_/VPB _124_/VPB _072_/Y sky130_fd_sc_hd__xnor2_1
+XPHY_EDGE_ROW_10_Left_23 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__decap_4
+X_055_ a[2] VSUBS VSUBS _124_/VPB _124_/VPB _070_/B sky130_fd_sc_hd__clkinv_1
+X_124_ _124_/CLK _124_/D _119_/Y VSUBS VSUBS _124_/VPB _124_/VPB _124_/Q sky130_fd_sc_hd__dfrtp_1
+XFILLER_12_0 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+X_107_ b[4] a[4] s[0] VSUBS VSUBS _124_/VPB _124_/VPB _108_/C sky130_fd_sc_hd__a21oi_1
+XTAP_TAPCELL_ROW_10_126 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_4_71 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_5_71 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_4
+XTAP_TAPCELL_ROW_0_29 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_1_50 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_071_ s[0] s[1] VSUBS VSUBS _124_/VPB _124_/VPB _103_/A sky130_fd_sc_hd__nand2_1
+XFILLER_2_72 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_4
+XFILLER_11_70 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+X_106_ _102_/A _104_/X _105_/Y VSUBS VSUBS _124_/VPB _124_/VPB _109_/B sky130_fd_sc_hd__a21oi_1
+XTAP_TAPCELL_ROW_7_100 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XPHY_EDGE_ROW_4_Right_4 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__decap_4
+X_123_ _123_/CLK _123_/D _056_/Y VSUBS VSUBS _124_/VPB _124_/VPB _123_/Q sky130_fd_sc_hd__dfrtp_1
+XTAP_TAPCELL_ROW_10_127 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_4_72 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_070_ b[2] _070_/B _070_/C VSUBS VSUBS _124_/VPB _124_/VPB _072_/B sky130_fd_sc_hd__maj3_1
+XTAP_TAPCELL_ROW_1_51 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_122_ _124_/CLK _122_/D _116_/Y VSUBS VSUBS _124_/VPB _124_/VPB _122_/Q sky130_fd_sc_hd__dfrtp_1
+XFILLER_2_0 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+XTAP_TAPCELL_ROW_10_128 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_8_72 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_4
+XTAP_TAPCELL_ROW_7_101 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_105_ _102_/A _104_/X _077_/X VSUBS VSUBS _124_/VPB _124_/VPB _105_/Y sky130_fd_sc_hd__o21ai_0
+XTAP_TAPCELL_ROW_4_73 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_5_40 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_1
+XFILLER_10_18 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_2
+XTAP_TAPCELL_ROW_1_52 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_7_102 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_104_ b[3] a[3] _104_/C VSUBS VSUBS _124_/VPB _124_/VPB _104_/X sky130_fd_sc_hd__maj3_1
+Xclkbuf_1_0__f_clk clkbuf_0_clk/X VSUBS VSUBS _124_/VPB _124_/VPB _123_/CLK sky130_fd_sc_hd__clkbuf_16
+X_121_ _123_/CLK _121_/D _117_/Y VSUBS VSUBS _124_/VPB _124_/VPB _121_/Q sky130_fd_sc_hd__dfrtp_1
+XTAP_TAPCELL_ROW_10_129 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_4_74 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_10_0 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_2
+XFILLER_5_63 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+XPHY_EDGE_ROW_2_Left_15 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__decap_4
+XFILLER_11_62 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+XPHY_EDGE_ROW_10_Right_10 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__decap_4
+XFILLER_2_31 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_4
+X_120_ _123_/CLK _120_/D _118_/Y VSUBS VSUBS _124_/VPB _124_/VPB _120_/Q sky130_fd_sc_hd__dfrtp_1
+XFILLER_2_64 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+XTAP_TAPCELL_ROW_12_160 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_7_103 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_103_ _103_/A _103_/B VSUBS VSUBS _124_/VPB _124_/VPB _109_/A sky130_fd_sc_hd__nor2_1
+XPHY_EDGE_ROW_8_Right_8 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__decap_4
+XFILLER_5_75 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_2
+XFILLER_5_31 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_1
+XTAP_TAPCELL_ROW_4_75 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_2_76 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_2
+XTAP_TAPCELL_ROW_7_104 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_102_ _102_/A _102_/B VSUBS VSUBS _124_/VPB _124_/VPB _103_/B sky130_fd_sc_hd__xor2_1
+XFILLER_0_0 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+XTAP_TAPCELL_ROW_12_150 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_8_64 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+XTAP_TAPCELL_ROW_4_76 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_10_2 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_1
+XFILLER_5_54 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_2
+XFILLER_5_21 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+XFILLER_5_10 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_2
+XTAP_TAPCELL_ROW_1_44 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_7_98 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_12_151 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_8_76 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_2
+XFILLER_8_10 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+XTAP_TAPCELL_ROW_7_105 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_101_ _078_/A _072_/B _100_/Y VSUBS VSUBS _124_/VPB _124_/VPB _102_/B sky130_fd_sc_hd__o21ai_0
+XFILLER_5_77 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_1
+XTAP_TAPCELL_ROW_4_77 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_1_45 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_2_56 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+XFILLER_4_8 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+XTAP_TAPCELL_ROW_7_106 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_7_99 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XPHY_EDGE_ROW_6_Left_19 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__decap_4
+X_100_ b[3] a[3] VSUBS VSUBS _124_/VPB _124_/VPB _100_/Y sky130_fd_sc_hd__nand2b_1
+XTAP_TAPCELL_ROW_12_152 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XPHY_EDGE_ROW_9_Left_22 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__decap_4
+XTAP_TAPCELL_ROW_4_78 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_5_56 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_1
+XTAP_TAPCELL_ROW_1_46 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_2_24 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_4
+XFILLER_2_35 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_1
+XTAP_TAPCELL_ROW_12_153 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_8_56 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+XFILLER_8_34 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_2
+XFILLER_12_8 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+XTAP_TAPCELL_ROW_4_79 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_1_47 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_11_12 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_1
+XFILLER_9_0 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_4
+XTAP_TAPCELL_ROW_12_154 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_12_143 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_089_ _091_/A _089_/B VSUBS VSUBS _124_/VPB _124_/VPB _089_/Y sky130_fd_sc_hd__nor2_1
+XFILLER_5_36 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_4
+Xclkbuf_1_1__f_clk clkbuf_0_clk/X VSUBS VSUBS _124_/VPB _124_/VPB _124_/CLK sky130_fd_sc_hd__clkbuf_16
+XTAP_TAPCELL_ROW_1_48 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XPHY_EDGE_ROW_3_Right_3 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__decap_4
+XTAP_TAPCELL_ROW_12_155 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_12_144 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_088_ _069_/X _103_/A _083_/Y _087_/Y VSUBS VSUBS _124_/VPB _124_/VPB _122_/D sky130_fd_sc_hd__o31ai_1
+XFILLER_2_8 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+XTAP_TAPCELL_ROW_5_80 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_1_49 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_11_47 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_1
+XFILLER_2_16 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+XTAP_TAPCELL_ROW_12_156 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_12_145 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_087_ _075_/Y _077_/X _084_/Y _086_/Y VSUBS VSUBS _124_/VPB _124_/VPB _087_/Y sky130_fd_sc_hd__a31oi_1
+XFILLER_8_26 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+XTAP_TAPCELL_ROW_5_81 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_2_60 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_12_157 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_12_146 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_086_ s[1] _086_/B _086_/C VSUBS VSUBS _124_/VPB _124_/VPB _086_/Y sky130_fd_sc_hd__nor3_1
+XFILLER_8_49 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_2
+XFILLER_7_0 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_4
+XPHY_EDGE_ROW_1_Left_14 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__decap_4
+X_069_ _084_/A _070_/C VSUBS VSUBS _124_/VPB _124_/VPB _069_/X sky130_fd_sc_hd__lpflow_isobufsrc_1
+XFILLER_0_50 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_2
+XFILLER_0_72 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_4
+XPHY_EDGE_ROW_7_Right_7 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__decap_4
+XTAP_TAPCELL_ROW_5_82 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_9_120 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_2_61 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_12_158 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_12_147 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_085_ b[2] a[2] s[0] VSUBS VSUBS _124_/VPB _124_/VPB _086_/C sky130_fd_sc_hd__a21oi_1
+XFILLER_0_8 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_4
+X_068_ _091_/A _089_/B _061_/X VSUBS VSUBS _124_/VPB _124_/VPB _070_/C sky130_fd_sc_hd__a21oi_1
+XTAP_TAPCELL_ROW_5_83 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_5_29 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_2
+XTAP_TAPCELL_ROW_9_121 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_3_73 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_4
+XTAP_TAPCELL_ROW_12_159 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_12_148 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_084_ _084_/A _084_/B _084_/C VSUBS VSUBS _124_/VPB _124_/VPB _084_/Y sky130_fd_sc_hd__nand3_1
+XFILLER_8_18 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+X_067_ a[0] b[0] VSUBS VSUBS _124_/VPB _124_/VPB _089_/B sky130_fd_sc_hd__nand2b_1
+X_119_ reset VSUBS VSUBS _124_/VPB _124_/VPB _119_/Y sky130_fd_sc_hd__clkinv_1
+XTAP_TAPCELL_ROW_5_84 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_9_122 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_12_61 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+XTAP_TAPCELL_ROW_12_149 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_083_ _084_/A _070_/C VSUBS VSUBS _124_/VPB _124_/VPB _083_/Y sky130_fd_sc_hd__nor2b_1
+XFILLER_5_0 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_4
+XPHY_EDGE_ROW_5_Left_18 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__decap_4
+XFILLER_3_41 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+XPHY_EDGE_ROW_8_Left_21 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__decap_4
+XTAP_TAPCELL_ROW_5_85 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_066_ b[0] a[0] VSUBS VSUBS _124_/VPB _124_/VPB _066_/Y sky130_fd_sc_hd__xnor2_1
+XFILLER_0_42 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+X_118_ reset VSUBS VSUBS _124_/VPB _124_/VPB _118_/Y sky130_fd_sc_hd__clkinv_1
+XTAP_TAPCELL_ROW_9_123 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_7_4 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_1
+XTAP_TAPCELL_ROW_2_53 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_082_ _103_/A _072_/Y _081_/Y VSUBS VSUBS _124_/VPB _124_/VPB _123_/D sky130_fd_sc_hd__o21ai_0
+X_065_ b[0] a[0] VSUBS VSUBS _124_/VPB _124_/VPB _091_/B sky130_fd_sc_hd__nand2_1
+XFILLER_0_76 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_2
+XTAP_TAPCELL_ROW_5_86 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_117_ reset VSUBS VSUBS _124_/VPB _124_/VPB _117_/Y sky130_fd_sc_hd__clkinv_1
+XFILLER_6_53 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_2
+XTAP_TAPCELL_ROW_2_54 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_11_140 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XTAP_TAPCELL_ROW_9_124 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_081_ _077_/X _078_/X _080_/Y VSUBS VSUBS _124_/VPB _124_/VPB _081_/Y sky130_fd_sc_hd__a21oi_1
+XFILLER_3_65 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+X_064_ b[1] a[1] VSUBS VSUBS _124_/VPB _124_/VPB _091_/A sky130_fd_sc_hd__xnor2_1
+XFILLER_9_75 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_2
+X_116_ reset VSUBS VSUBS _124_/VPB _124_/VPB _116_/Y sky130_fd_sc_hd__clkinv_1
+XTAP_TAPCELL_ROW_5_87 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XPHY_EDGE_ROW_2_Right_2 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__decap_4
+XTAP_TAPCELL_ROW_2_55 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_3_77 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_1
+XFILLER_12_53 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+X_063_ b[1] a[1] VSUBS VSUBS _124_/VPB _124_/VPB _093_/B sky130_fd_sc_hd__nor2_1
+XTAP_TAPCELL_ROW_11_141 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+X_080_ s[1] _080_/B _080_/C VSUBS VSUBS _124_/VPB _124_/VPB _080_/Y sky130_fd_sc_hd__nor3_1
+X_115_ sync _109_/A _109_/B _109_/C _114_/Y VSUBS VSUBS _124_/VPB _124_/VPB out[4]
++ sky130_fd_sc_hd__o41a_4
+XTAP_TAPCELL_ROW_5_88 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+XFILLER_0_12 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_2
+XFILLER_0_34 VSUBS VSUBS _124_/VPB _124_/VPB sky130_fd_sc_hd__fill_8
+XTAP_TAPCELL_ROW_2_56 VSUBS _124_/VPB sky130_fd_sc_hd__tapvpwrvgnd_1
+C0 _124_/VPB _102_/B 0.774427f
+C1 _108_/B _108_/C 0.051801f
+C2 _117_/Y _120_/Q 3.09e-21
+C3 _086_/B _084_/B 1.18e-20
+C4 sync _066_/Y 0.03048f
+C5 _096_/Y _066_/Y 0.014999f
+C6 _072_/B _102_/A 1.27e-20
+C7 _122_/D _104_/X 1.15e-21
+C8 _124_/D _102_/A 4.25e-19
+C9 _066_/Y _109_/A 8.44e-21
+C10 b[4] _103_/A 0.002322f
+C11 _108_/B out[4] 1.9e-19
+C12 _072_/Y _104_/C 0.002764f
+C13 out[2] _108_/B 0.14228f
+C14 _116_/Y _114_/Y 0.158264f
+C15 out[0] _121_/Q 0.003237f
+C16 _124_/VPB _124_/Q 0.491151f
+C17 a[4] s[0] 0.100025f
+C18 _090_/X _104_/X 6.19e-21
+C19 _103_/A _070_/C 0.209357f
+C20 sync _121_/Q 0.40239f
+C21 _084_/Y _069_/X 7.7e-19
+C22 _075_/Y _084_/A 0.227603f
+C23 _120_/D _124_/CLK 9.25e-21
+C24 _081_/Y _104_/X 0.002347f
+C25 _091_/B _104_/X 0.088508f
+C26 a[0] _102_/A 8.52e-21
+C27 _108_/B _061_/X 5.72e-19
+C28 _118_/Y _066_/Y 3.32e-20
+C29 _075_/Y _102_/B 1.42e-19
+C30 _093_/Y _103_/A 0.002208f
+C31 b[3] _100_/Y 0.011346f
+C32 _066_/Y s[1] 0.02794f
+C33 _103_/A _084_/B 1.56e-19
+C34 _084_/Y _093_/B 1.6e-19
+C35 _083_/Y _087_/Y 0.004902f
+C36 _083_/Y _072_/B 9.7e-20
+C37 s[0] _069_/X 0.03003f
+C38 a[1] _089_/Y 2.3e-21
+C39 _120_/D _089_/Y 3.55e-20
+C40 _093_/B s[0] 0.034105f
+C41 _123_/CLK a[0] 0.037313f
+C42 _078_/A _123_/D 0.049466f
+C43 _056_/Y reset 0.20366f
+C44 _121_/Q s[1] 1.01e-19
+C45 _122_/D _090_/X 0.005046f
+C46 _078_/X _121_/Q 1.31e-19
+C47 _086_/Y _076_/C 0.221786f
+C48 _104_/C _086_/C 0.002311f
+C49 _091_/B _122_/D 0.022703f
+C50 sync _094_/Y 0.003504f
+C51 _087_/Y _104_/C 0.010299f
+C52 _072_/B _104_/C 0.029359f
+C53 b[2] _084_/A 0.153908f
+C54 _086_/Y a[2] 0.011984f
+C55 reset _116_/Y 0.139575f
+C56 _120_/Q a[0] 0.021276f
+C57 _094_/Y _109_/A 2.08e-19
+C58 _123_/D _121_/D 0.055989f
+C59 a[4] _124_/CLK 6.44e-20
+C60 _104_/X out[4] 1.3e-19
+C61 sync clkload0/X 0.004022f
+C62 _091_/B _090_/X 0.020715f
+C63 _103_/A _102_/A 0.595409f
+C64 _123_/Q b[3] 8.05e-21
+C65 _123_/D a[3] 0.85311f
+C66 clkload0/X _096_/Y 0.008809f
+C67 _076_/C a[2] 0.008799f
+C68 _081_/Y _080_/Y 0.099144f
+C69 _104_/C _080_/B 6.53e-20
+C70 _100_/Y _109_/B 0.001486f
+C71 _124_/D _108_/B 1.31e-20
+C72 _094_/Y s[1] 1.83e-19
+C73 _122_/D _108_/C 2.82e-19
+C74 s[0] _066_/Y 3.34e-19
+C75 _120_/D _109_/B 4.53e-21
+C76 _091_/Y _084_/A 6.2e-19
+C77 sync _102_/B 0.001675f
+C78 _102_/B _091_/Y 0.001228f
+C79 _102_/B _109_/A 8.76e-20
+C80 clkload0/X s[1] 2.3e-19
+C81 _122_/D out[4] 0.018766f
+C82 _056_/Y b[0] 0.010472f
+C83 clk _123_/CLK 0.094282f
+C84 _123_/D _105_/Y 2.23e-21
+C85 b[4] _091_/A 0.018697f
+C86 _103_/A _083_/Y 0.494135f
+C87 _072_/Y _104_/X 0.003354f
+C88 _103_/B _109_/B 0.090455f
+C89 out[2] _122_/D 0.027081f
+C90 _117_/Y _104_/X 5.32e-20
+C91 _078_/A _070_/B 1.46e-20
+C92 b[4] _077_/X 0.002804f
+C93 s[0] _121_/Q 2.38e-20
+C94 _091_/B _108_/C 1.91e-20
+C95 b[1] _084_/A 0.138765f
+C96 b[4] _089_/B 6.13e-19
+C97 _091_/A _070_/C 0.153099f
+C98 _122_/D _061_/X 4.48e-19
+C99 _124_/VPB _056_/Y 0.264215f
+C100 sync _124_/Q 0.171409f
+C101 clk _120_/Q 9.99e-20
+C102 _090_/X out[4] 0.005844f
+C103 s[1] _084_/A 0.005045f
+C104 reset _102_/A 1.99e-20
+C105 _077_/X _070_/C 0.023898f
+C106 _093_/Y _091_/A 0.193645f
+C107 _124_/VPB b[4] 0.785392f
+C108 _102_/B s[1] 0.002496f
+C109 _091_/B out[4] 0.090435f
+C110 _084_/B _091_/A 1.32e-20
+C111 _078_/X _102_/B 0.041457f
+C112 out[2] _091_/B 2.87e-20
+C113 _093_/C _091_/B 0.070162f
+C114 _093_/Y _077_/X 0.00969f
+C115 _119_/Y _124_/D 0.006284f
+C116 _103_/A _104_/C 0.047922f
+C117 _089_/B _070_/C 4.84e-19
+C118 _124_/VPB _116_/Y 0.409109f
+C119 a[3] _070_/B 0.010914f
+C120 a[4] _109_/B 6.77e-19
+C121 _124_/CLK _066_/Y 0.010684f
+C122 _093_/Y _089_/B 0.002514f
+C123 _124_/VPB _070_/C 0.262846f
+C124 _091_/B _061_/X 0.227173f
+C125 _093_/Y _124_/VPB 0.144587f
+C126 _123_/CLK reset 0.127954f
+C127 _124_/VPB _084_/B 0.393155f
+C128 _072_/B _104_/X 2.43e-19
+C129 _078_/A _100_/Y 0.212572f
+C130 _123_/D _086_/Y 1.24e-19
+C131 _072_/Y _080_/Y 6.95e-19
+C132 _093_/B _109_/B 3.52e-22
+C133 b[4] _109_/C 0.009845f
+C134 _081_/Y _072_/Y 0.032003f
+C135 b[4] _075_/Y 0.008146f
+C136 _108_/B _114_/Y 4.56e-21
+C137 _108_/C out[4] 0.009236f
+C138 _093_/C _108_/C 0.002105f
+C139 a[1] _084_/C 7.96e-19
+C140 out[2] _108_/C 4.91e-20
+C141 _120_/Q reset 0.088652f
+C142 clkload0/X s[0] 1.46e-19
+C143 _116_/Y _109_/C 0.00918f
+C144 out[1] _121_/Q 9.88e-20
+C145 _123_/CLK clkbuf_0_clk/X 0.163337f
+C146 _100_/Y _121_/D 0.004295f
+C147 _091_/A _102_/A 0.026529f
+C148 _075_/Y _070_/C 8.12e-19
+C149 _084_/Y _084_/A 0.161605f
+C150 b[3] _121_/Q 9.27e-21
+C151 _104_/X _080_/B 2.04e-20
+C152 _078_/A _103_/B 3.28e-20
+C153 b[0] _102_/A 1.2e-20
+C154 a[0] _104_/X 1.6e-19
+C155 _077_/X _102_/A 0.130088f
+C156 a[1] _121_/D 1.97e-20
+C157 _093_/C out[4] 5.79e-20
+C158 _093_/Y _109_/C 0.021086f
+C159 _108_/C _061_/X 0.01808f
+C160 out[2] out[4] 1.23e-20
+C161 _093_/Y _075_/Y 2.34e-19
+C162 a[3] _100_/Y 0.07726f
+C163 _120_/D _121_/D 0.061195f
+C164 _075_/Y _084_/B 0.02895f
+C165 _122_/D _072_/B 0.001856f
+C166 _124_/D _122_/D 7.4e-19
+C167 _122_/D _087_/Y 0.07892f
+C168 _120_/Q clkbuf_0_clk/X 0.122071f
+C169 _089_/B _102_/A 0.182827f
+C170 s[0] _084_/A 0.170801f
+C171 s[0] _102_/B 0.039218f
+C172 _061_/X out[4] 0.031188f
+C173 _121_/D _103_/B 3.81e-22
+C174 _093_/C _061_/X 0.265152f
+C175 _124_/VPB _102_/A 0.809348f
+C176 _124_/CLK _094_/Y 0.004606f
+C177 b[4] b[2] 0.114693f
+C178 _123_/CLK b[0] 0.037355f
+C179 _123_/CLK _077_/X 0.002672f
+C180 _119_/Y _114_/Y 2.4e-19
+C181 _083_/Y _091_/A 5.72e-21
+C182 _072_/B _080_/Y 0.002498f
+C183 _091_/B _087_/Y 9e-20
+C184 _124_/D _091_/B 2.28e-21
+C185 _081_/Y _072_/B 0.060522f
+C186 _100_/Y _105_/Y 1.78e-19
+C187 _077_/X _083_/Y 0.021715f
+C188 _066_/Y _109_/B 9.25e-21
+C189 b[2] _070_/C 8.89e-19
+C190 clkload0/X _124_/CLK 0.064553f
+C191 _083_/Y _089_/B 2.87e-21
+C192 _123_/CLK _124_/VPB 3.776261f
+C193 _123_/Q _121_/D 5.17e-20
+C194 _120_/Q b[0] 0.023467f
+C195 _094_/Y _089_/Y 0.120824f
+C196 _120_/D _105_/Y 0.004827f
+C197 b[2] _084_/B 2.06e-20
+C198 _056_/Y out[0] 0.07934f
+C199 _078_/A _069_/X 0.001612f
+C200 _124_/VPB _083_/Y 0.210013f
+C201 _056_/Y sync 0.050374f
+C202 _102_/A _109_/C 0.544174f
+C203 _103_/A _104_/X 0.125508f
+C204 _123_/Q a[3] 4.81e-19
+C205 _120_/Q _089_/B 8.64e-22
+C206 _080_/Y _080_/B 0.198203f
+C207 _081_/Y _080_/B 3.99e-21
+C208 _104_/C _091_/A 7.09e-21
+C209 _093_/B _084_/C 0.338333f
+C210 b[4] _091_/Y 0.001958f
+C211 _091_/B a[0] 0.232434f
+C212 _105_/Y _103_/B 0.034997f
+C213 _124_/VPB _120_/Q 0.186697f
+C214 _077_/X _104_/C 1.006249f
+C215 sync _116_/Y 0.215402f
+C216 a[2] _070_/B 0.295643f
+C217 _116_/Y _109_/A 1.48e-19
+C218 _091_/Y _070_/C 0.12129f
+C219 b[3] _084_/A 5.42e-21
+C220 _093_/Y sync 3.36e-21
+C221 _093_/Y _091_/Y 3.51e-19
+C222 _124_/VPB _104_/C 0.378719f
+C223 b[3] _102_/B 4.66e-21
+C224 b[1] b[4] 0.516345f
+C225 _119_/Y reset 0.115665f
+C226 _084_/B _091_/Y 5.36e-20
+C227 _124_/VPB out[3] 0.370548f
+C228 _124_/D out[4] 1.92e-19
+C229 _093_/Y _109_/A 8.44e-21
+C230 _122_/D _114_/Y 0.00133f
+C231 _103_/A _122_/D 0.354553f
+C232 _075_/Y _083_/Y 0.015073f
+C233 _100_/Y _086_/Y 4.56e-21
+C234 _108_/B _091_/A 2.04e-19
+C235 b[4] s[1] 0.154303f
+C236 _124_/Q _124_/CLK 0.022721f
+C237 b[1] _070_/C 2.71e-20
+C238 _094_/Y _109_/B 8.79e-20
+C239 _087_/Y _061_/X 2.61e-20
+C240 _093_/Y b[1] 3.75e-20
+C241 _100_/Y _076_/C 9.87e-21
+C242 b[1] _084_/B 0.129148f
+C243 s[1] _070_/C 0.029582f
+C244 _103_/A _090_/X 0.076857f
+C245 a[0] out[4] 0.001891f
+C246 _081_/Y _103_/A 0.001474f
+C247 _103_/A _091_/B 0.149556f
+C248 _093_/Y s[1] 0.222968f
+C249 a[1] _076_/C 8.95e-19
+C250 _124_/VPB _108_/B 0.68088f
+C251 _084_/B s[1] 0.045616f
+C252 _075_/Y _104_/C 0.019187f
+C253 _072_/B _072_/Y 0.3611f
+C254 a[1] a[2] 0.014078f
+C255 _122_/Q a[4] 1.74e-19
+C256 _083_/Y b[2] 5.88e-20
+C257 sync _102_/A 4.75e-19
+C258 _121_/D _066_/Y 0.008633f
+C259 _102_/A _091_/Y 1.01e-19
+C260 _102_/A _096_/Y 1.59e-20
+C261 _078_/A _121_/Q 1.31e-20
+C262 _102_/A _109_/A 0.216295f
+C263 _122_/D reset 2.72e-20
+C264 _102_/B _109_/B 0.005942f
+C265 _072_/Y _080_/B 0.001679f
+C266 b[4] _084_/Y 0.019295f
+C267 _108_/B _109_/C 0.204179f
+C268 _117_/Y a[0] 2.58e-19
+C269 _123_/CLK out[0] 0.100762f
+C270 _121_/D _121_/Q 1.310548f
+C271 _123_/CLK sync 0.265036f
+C272 _124_/VPB _119_/Y 0.164745f
+C273 _091_/A _104_/X 1.49e-19
+C274 b[4] s[0] 0.832033f
+C275 b[2] _104_/C 0.008937f
+C276 _086_/Y _069_/X 0.005435f
+C277 _084_/Y _070_/C 2.8e-19
+C278 _104_/X _080_/C 1.74e-20
+C279 _103_/A out[4] 0.025697f
+C280 _102_/A s[1] 0.107533f
+C281 out[4] _114_/Y 0.006012f
+C282 _091_/B reset 2.63e-20
+C283 a[3] _121_/Q 7.29e-19
+C284 _083_/Y _091_/Y 0.056734f
+C285 _078_/X _102_/A 0.078524f
+C286 _077_/X _104_/X 0.306041f
+C287 out[2] _114_/Y 6.83e-20
+C288 _124_/Q _109_/B 9.05e-20
+C289 _086_/Y _093_/B 3.52e-20
+C290 _084_/Y _084_/B 0.234392f
+C291 _105_/Y _066_/Y 0.008385f
+C292 _120_/Q out[0] 2.26e-19
+C293 s[0] _070_/C 0.036446f
+C294 _089_/B _104_/X 7.08e-20
+C295 sync _120_/Q 0.389751f
+C296 _120_/Q _096_/Y 7.1e-21
+C297 _076_/C _069_/X 5.21e-19
+C298 _084_/C _094_/Y 0.099439f
+C299 _093_/Y s[0] 3.17e-20
+C300 _103_/A _061_/X 6.87e-19
+C301 _084_/B s[0] 0.030214f
+C302 _124_/VPB _104_/X 0.25456f
+C303 _123_/CLK _118_/Y 0.00205f
+C304 _123_/CLK s[1] 1.47e-19
+C305 _076_/C _093_/B 0.100463f
+C306 _091_/B clkbuf_0_clk/X 2.31e-19
+C307 a[2] _069_/X 6.49e-21
+C308 _123_/CLK _078_/X 1.72e-20
+C309 _122_/D _091_/A 0.710812f
+C310 out[3] out[0] 0.353214f
+C311 sync _104_/C 1e-20
+C312 _121_/Q _105_/Y 9.19e-20
+C313 _072_/B _080_/B 0.023433f
+C314 _083_/Y s[1] 0.002714f
+C315 _121_/D _094_/Y 0.225045f
+C316 sync out[3] 0.00288f
+C317 _078_/X _083_/Y 1.5e-19
+C318 _077_/X _122_/D 0.035251f
+C319 _093_/B a[2] 0.003293f
+C320 _103_/A _072_/Y 0.138596f
+C321 _118_/Y _120_/Q 0.34864f
+C322 _122_/D _089_/B 0.054717f
+C323 _086_/B _086_/C 0.15648f
+C324 b[4] _124_/CLK 3.05e-19
+C325 _090_/X _091_/A 0.083182f
+C326 _123_/D _100_/Y 0.004669f
+C327 _084_/C _084_/A 0.232934f
+C328 _124_/VPB _122_/D 1.189386f
+C329 _078_/A _102_/B 0.26332f
+C330 _077_/X _090_/X 0.026086f
+C331 _124_/CLK _116_/Y 0.056854f
+C332 _091_/B _091_/A 0.252976f
+C333 out[2] reset 6e-21
+C334 _080_/Y _080_/C 0.07905f
+C335 _081_/Y _080_/C 8.34e-22
+C336 _077_/X _080_/Y 0.001846f
+C337 _077_/X _091_/B 0.676237f
+C338 _081_/Y _077_/X 0.136887f
+C339 _091_/B b[0] 0.313744f
+C340 _104_/C s[1] 2.83e-19
+C341 _089_/B _090_/X 0.164814f
+C342 _078_/X _104_/C 0.024725f
+C343 b[4] _089_/Y 2.57e-19
+C344 _093_/Y _124_/CLK 0.002211f
+C345 s[0] _102_/A 0.159255f
+C346 _091_/B _089_/B 0.200965f
+C347 _108_/B _109_/A 3.19e-20
+C348 _121_/D _102_/B 3.93e-21
+C349 _124_/VPB _090_/X 0.233295f
+C350 _124_/VPB _080_/Y 0.135407f
+C351 b[3] _070_/C 4.78e-21
+C352 _124_/VPB _081_/Y 0.21695f
+C353 _124_/VPB _091_/B 0.515819f
+C354 _103_/A _086_/C 0.001186f
+C355 _103_/A _124_/D 0.004857f
+C356 _124_/D _114_/Y 0.021682f
+C357 _103_/A _072_/B 0.50103f
+C358 _103_/A _087_/Y 0.043749f
+C359 _093_/Y _089_/Y 9.81e-19
+C360 _122_/D _109_/C 0.027262f
+C361 _084_/Y _083_/Y 9.91e-21
+C362 _108_/C _091_/A 0.078568f
+C363 _117_/Y reset 0.049344f
+C364 _108_/B s[1] 0.149125f
+C365 _083_/Y s[0] 1.04e-19
+C366 _123_/D _123_/Q 0.217205f
+C367 sync _119_/Y 0.00717f
+C368 _089_/B _108_/C 0.001832f
+C369 _091_/A out[4] 0.427024f
+C370 _093_/C _091_/A 0.023396f
+C371 out[2] _091_/A 1.42e-20
+C372 _103_/A _080_/B 0.007111f
+C373 b[0] out[4] 9.48e-19
+C374 _077_/X out[4] 0.242214f
+C375 _091_/B _109_/C 3.68e-19
+C376 _103_/A a[0] 3.51e-21
+C377 _075_/Y _091_/B 0.004921f
+C378 _124_/VPB _108_/C 0.278353f
+C379 _117_/Y clkbuf_0_clk/X 3.85e-20
+C380 _105_/Y _102_/B 0.002954f
+C381 _124_/CLK _102_/A 3.81e-19
+C382 _084_/Y _104_/C 0.132596f
+C383 clk a[0] 0.047479f
+C384 _089_/B out[4] 0.029742f
+C385 b[4] _109_/B 2.58e-19
+C386 _123_/D _069_/X 0.00456f
+C387 _093_/C _089_/B 1.33e-20
+C388 _091_/A _061_/X 0.41136f
+C389 _124_/VPB out[4] 0.507408f
+C390 sync _104_/X 5.4e-20
+C391 _116_/Y _109_/B 1.22e-19
+C392 _077_/X _061_/X 6.43e-20
+C393 s[0] _104_/C 0.357032f
+C394 _104_/X _091_/Y 1.68e-21
+C395 _093_/C _124_/VPB 0.433504f
+C396 _124_/VPB out[2] 0.82306f
+C397 _104_/X _109_/A 0.005818f
+C398 _089_/B _061_/X 1.64e-19
+C399 _102_/A _089_/Y 0.004099f
+C400 _124_/D reset 4.13e-19
+C401 _093_/Y _109_/B 5.26e-21
+C402 _072_/Y _080_/C 2.66e-19
+C403 _077_/X _072_/Y 3.48e-21
+C404 _117_/Y _077_/X 2.73e-19
+C405 _117_/Y b[0] 2.54e-19
+C406 _108_/C _109_/C 0.094914f
+C407 _124_/VPB _061_/X 0.390833f
+C408 _123_/CLK out[1] 2.43e-19
+C409 _086_/Y _084_/A 0.094224f
+C410 s[0] _108_/B 3.69e-19
+C411 _120_/Q _124_/CLK 0.001658f
+C412 _104_/X s[1] 0.579887f
+C413 _103_/A _114_/Y 0.004242f
+C414 out[4] _109_/C 0.001046f
+C415 _124_/VPB _072_/Y 0.670296f
+C416 sync _122_/D 0.144842f
+C417 a[0] reset 0.065388f
+C418 _078_/X _104_/X 0.094324f
+C419 _075_/Y out[4] 1.34e-21
+C420 _122_/D _091_/Y 0.04199f
+C421 out[2] _109_/C 0.007491f
+C422 _124_/VPB _117_/Y 0.497698f
+C423 _093_/C _075_/Y 3.15e-21
+C424 _086_/Y _102_/B 8.47e-22
+C425 _122_/D _109_/A 1.23e-19
+C426 _122_/Q _124_/Q 5.48e-19
+C427 _076_/C _084_/A 0.164415f
+C428 _075_/Y _061_/X 3.06e-19
+C429 _076_/C _102_/B 1.47e-21
+C430 _090_/X _096_/Y 1.68e-21
+C431 b[1] _122_/D 1.95e-20
+C432 sync _080_/Y 1.46e-20
+C433 _100_/Y _103_/B 1.42e-20
+C434 _070_/B _069_/X 0.002383f
+C435 a[2] _084_/A 0.269325f
+C436 a[0] clkbuf_0_clk/X 0.043042f
+C437 sync _081_/Y 5.31e-20
+C438 sync _091_/B 0.139638f
+C439 _091_/B _091_/Y 0.271783f
+C440 out[3] out[1] 0.051501f
+C441 _090_/X _109_/A 8.03e-20
+C442 _077_/X _086_/C 0.002312f
+C443 _091_/B _096_/Y 0.178615f
+C444 _087_/Y _091_/A 8.99e-21
+C445 _124_/D _091_/A 0.002916f
+C446 _102_/A _109_/B 0.096325f
+C447 _072_/B _080_/C 8e-19
+C448 b[3] _104_/C 5.44e-19
+C449 _091_/B _109_/A 0.042756f
+C450 _122_/D s[1] 0.090611f
+C451 _077_/X _124_/D 2.64e-21
+C452 _077_/X _072_/B 0.004328f
+C453 _078_/X _122_/D 2.11e-20
+C454 _077_/X _087_/Y 0.116946f
+C455 out[3] b[3] 0.112588f
+C456 _120_/D _103_/B 0.007692f
+C457 b[4] _084_/C 0.025937f
+C458 _119_/Y s[0] 1.49e-21
+C459 _124_/D _089_/B 0.023811f
+C460 _124_/VPB _086_/C 0.130417f
+C461 _056_/Y _121_/D 1.75e-20
+C462 _123_/D _121_/Q 0.026742f
+C463 _078_/A _070_/C 2.19e-22
+C464 _124_/CLK _108_/B 9.47e-20
+C465 b[1] _091_/B 0.002374f
+C466 _090_/X s[1] 0.01487f
+C467 _084_/C _070_/C 0.005702f
+C468 b[4] _121_/D 5.4e-19
+C469 _124_/VPB _087_/Y 0.111773f
+C470 _124_/VPB _072_/B 0.507245f
+C471 _124_/VPB _124_/D 0.456114f
+C472 a[0] _091_/A 2.76e-21
+C473 reset _114_/Y 0.249583f
+C474 _118_/Y _091_/B 2.18e-22
+C475 _080_/B _080_/C 0.503536f
+C476 _080_/Y s[1] 0.133335f
+C477 _093_/Y _084_/C 0.076564f
+C478 _091_/B s[1] 0.46889f
+C479 _078_/X _080_/Y 5.13e-21
+C480 _077_/X _080_/B 6.96e-20
+C481 _081_/Y s[1] 0.044109f
+C482 _077_/X a[0] 9.74e-19
+C483 a[0] b[0] 1.349179f
+C484 _081_/Y _078_/X 4.07e-20
+C485 _084_/B _084_/C 0.18945f
+C486 clk reset 0.521473f
+C487 a[4] a[1] 0.065089f
+C488 s[0] _104_/X 0.145993f
+C489 _108_/C _109_/A 2.15e-20
+C490 a[0] _089_/B 0.001011f
+C491 _093_/Y _121_/D 0.008008f
+C492 _124_/VPB _080_/B 0.356009f
+C493 sync out[4] 0.046202f
+C494 _124_/VPB a[0] 0.538177f
+C495 _096_/Y out[4] 1.52e-20
+C496 a[3] _070_/C 0.001041f
+C497 _091_/Y out[4] 0.00303f
+C498 sync out[2] 0.423416f
+C499 _093_/C _091_/Y 8.13e-19
+C500 out[4] _109_/A 0.127423f
+C501 _124_/D _109_/C 8.77e-19
+C502 clk clkbuf_0_clk/X 0.172147f
+C503 _084_/Y _122_/D 8.14e-21
+C504 a[1] _093_/B 0.238314f
+C505 _075_/Y _087_/Y 0.125059f
+C506 _104_/C _109_/B 7.06e-22
+C507 _119_/Y _124_/CLK 0.001269f
+C508 _108_/C s[1] 0.063476f
+C509 _086_/B _124_/VPB 0.22291f
+C510 _061_/X _091_/Y 0.030336f
+C511 _122_/D s[0] 1.98e-19
+C512 b[1] out[4] 0.022781f
+C513 _093_/C b[1] 0.103818f
+C514 _078_/A _102_/A 0.007816f
+C515 _103_/A _091_/A 0.382278f
+C516 _084_/C _102_/A 7.81e-19
+C517 _117_/Y out[0] 0.007068f
+C518 _103_/A _080_/C 2.35e-20
+C519 s[1] out[4] 0.131266f
+C520 _077_/X _114_/Y 9.75e-21
+C521 _077_/X _103_/A 0.354392f
+C522 out[2] s[1] 0.011451f
+C523 _117_/Y sync 8.68e-19
+C524 _093_/C s[1] 0.117263f
+C525 b[1] _061_/X 0.019042f
+C526 clk b[0] 0.047705f
+C527 _089_/B _114_/Y 0.005406f
+C528 s[0] _090_/X 3.1e-19
+C529 _103_/A _089_/B 0.291295f
+C530 b[2] _086_/C 0.269525f
+C531 s[0] _080_/Y 4.35e-19
+C532 _123_/D _084_/A 7.58e-21
+C533 _081_/Y s[0] 0.193471f
+C534 _091_/B s[0] 0.041001f
+C535 _121_/D _102_/A 0.153373f
+C536 _108_/B _109_/B 3.53e-20
+C537 _061_/X s[1] 0.24612f
+C538 _123_/D _102_/B 0.028124f
+C539 b[2] _072_/B 0.014226f
+C540 _124_/VPB _103_/A 0.683174f
+C541 _124_/VPB _114_/Y 0.195158f
+C542 reset clkbuf_0_clk/X 0.581049f
+C543 _078_/A _123_/CLK 1.66e-21
+C544 b[3] _104_/X 0.008255f
+C545 _122_/Q _116_/Y 0.00311f
+C546 clk _124_/VPB 0.169749f
+C547 _078_/A _083_/Y 2.07e-20
+C548 _083_/Y _084_/C 3.07e-20
+C549 _117_/Y _118_/Y 6.53e-20
+C550 _072_/Y s[1] 1.43e-19
+C551 _117_/Y s[1] 1.44e-19
+C552 b[4] _086_/Y 0.015317f
+C553 _120_/D _066_/Y 0.243649f
+C554 _123_/CLK _121_/D 0.041761f
+C555 _122_/D _124_/CLK 0.109174f
+C556 b[2] _080_/B 9.39e-21
+C557 _123_/CLK a[3] 2.35e-19
+C558 _100_/Y _121_/Q 5.71e-20
+C559 _086_/Y _070_/C 1.37e-19
+C560 _114_/Y _109_/C 0.111857f
+C561 s[0] _108_/C 0.090209f
+C562 _103_/A _109_/C 1.83e-19
+C563 sync _124_/D 0.06015f
+C564 b[4] _076_/C 0.007518f
+C565 _077_/X reset 1.64e-21
+C566 b[0] reset 0.187848f
+C567 _103_/A _075_/Y 2.97e-20
+C568 _102_/A _105_/Y 0.135303f
+C569 _093_/Y _086_/Y 3.67e-21
+C570 _120_/D _121_/Q 0.057043f
+C571 _120_/Q _121_/D 0.007692f
+C572 _078_/A _104_/C 0.395756f
+C573 _122_/D _089_/Y 6.62e-20
+C574 _104_/C _084_/C 6.61e-20
+C575 _086_/Y _084_/B 2.05e-19
+C576 _124_/D _109_/A 0.033635f
+C577 _086_/B b[2] 0.127468f
+C578 b[4] a[2] 0.082789f
+C579 _091_/B _124_/CLK 8.73e-19
+C580 s[0] out[4] 0.026611f
+C581 _076_/C _070_/C 0.012775f
+C582 b[1] _086_/C 0.017688f
+C583 _093_/C s[0] 0.097633f
+C584 out[1] _080_/Y 0.003061f
+C585 _121_/Q _103_/B 1.21e-20
+C586 _084_/Y _061_/X 1.1e-19
+C587 _124_/VPB reset 1.678104f
+C588 a[0] out[0] 2.21e-19
+C589 _093_/Y _076_/C 0.004875f
+C590 _121_/D _104_/C 1.08e-19
+C591 b[1] _072_/B 1.74e-20
+C592 b[1] _087_/Y 7.31e-20
+C593 _076_/C _084_/B 0.115413f
+C594 b[0] clkbuf_0_clk/X 0.009122f
+C595 sync a[0] 1.084131f
+C596 a[2] _070_/C 0.005671f
+C597 _070_/B _084_/A 0.00317f
+C598 _123_/CLK _105_/Y 9.07e-21
+C599 _086_/C s[1] 0.072351f
+C600 b[3] _080_/Y 0.642938f
+C601 a[0] _096_/Y 0.018931f
+C602 _090_/X _089_/Y 0.176442f
+C603 b[3] _081_/Y 0.004271f
+C604 _104_/X _109_/B 0.043618f
+C605 a[0] _109_/A 5.06e-20
+C606 _091_/B _089_/Y 0.002352f
+C607 s[0] _061_/X 0.052393f
+C608 _072_/B s[1] 1.92e-19
+C609 a[3] _104_/C 0.041609f
+C610 _124_/D s[1] 1.42e-19
+C611 _087_/Y s[1] 4.96e-20
+C612 _084_/B a[2] 7.77e-19
+C613 _089_/B clkbuf_0_clk/X 0.00393f
+C614 _078_/X _072_/B 0.001215f
+C615 out[3] a[3] 0.472837f
+C616 _108_/B _084_/C 4.21e-20
+C617 _122_/Q _102_/A 2.74e-20
+C618 _124_/VPB clkbuf_0_clk/X 0.971093f
+C619 a[1] _094_/Y 5.26e-20
+C620 _123_/Q _121_/Q 2.07e-20
+C621 s[0] _072_/Y 0.410998f
+C622 _117_/Y s[0] 1.08e-20
+C623 _124_/CLK _108_/C 0.0021f
+C624 reset _109_/C 3.56e-20
+C625 _077_/X _091_/A 0.088254f
+C626 b[0] _091_/A 4.87e-19
+C627 _118_/Y a[0] 0.023702f
+C628 _080_/B s[1] 0.003975f
+C629 _077_/X _080_/C 4.41e-21
+C630 a[0] s[1] 0.105209f
+C631 _077_/X b[0] 2.6e-19
+C632 _124_/CLK out[4] 1.56e-19
+C633 _122_/D _109_/B 3.63e-19
+C634 _104_/C _105_/Y 5.36e-21
+C635 _086_/B b[1] 0.024977f
+C636 _089_/B _091_/A 0.776018f
+C637 out[2] _124_/CLK 0.001256f
+C638 _077_/X _089_/B 0.019861f
+C639 b[0] _089_/B 0.067743f
+C640 _076_/C _102_/A 9.68e-21
+C641 _124_/VPB _091_/A 0.640734f
+C642 _086_/B s[1] 0.002156f
+C643 _124_/VPB _080_/C 0.260221f
+C644 sync _103_/A 0.067151f
+C645 _124_/VPB b[0] 0.42578f
+C646 _100_/Y _102_/B 0.073276f
+C647 _124_/VPB _077_/X 0.800651f
+C648 sync _114_/Y 0.402599f
+C649 _096_/Y _114_/Y 3.92e-21
+C650 _103_/A _091_/Y 0.398898f
+C651 _103_/A _096_/Y 0.002921f
+C652 a[1] _084_/A 0.048312f
+C653 _084_/Y _086_/C 0.133309f
+C654 _090_/X _109_/B 7.77e-20
+C655 _089_/Y out[4] 0.042521f
+C656 _114_/Y _109_/A 0.335899f
+C657 _103_/A _109_/A 0.396875f
+C658 clk sync 5.9e-20
+C659 _091_/B _109_/B 0.020021f
+C660 _086_/Y _083_/Y 4.71e-20
+C661 _084_/Y _072_/B 2.88e-20
+C662 _084_/Y _087_/Y 0.00165f
+C663 _124_/VPB _089_/B 0.363731f
+C664 s[0] _086_/C 0.169807f
+C665 _124_/D s[0] 0.01578f
+C666 _072_/B s[0] 0.200105f
+C667 _087_/Y s[0] 1.52e-19
+C668 b[1] _103_/A 3.17e-21
+C669 _061_/X _089_/Y 1.23e-21
+C670 _123_/D _056_/Y 0.011211f
+C671 _102_/B _103_/B 0.016501f
+C672 _083_/Y _076_/C 2.63e-19
+C673 _091_/A _109_/C 0.024392f
+C674 _078_/A _104_/X 0.190714f
+C675 s[1] _114_/Y 5.67e-21
+C676 _075_/Y _091_/A 2.55e-20
+C677 _103_/A s[1] 0.269866f
+C678 _077_/X _109_/C 1.52e-20
+C679 _078_/X _103_/A 2.03e-19
+C680 _083_/Y a[2] 2.43e-20
+C681 _077_/X _075_/Y 0.020694f
+C682 b[3] _072_/Y 0.406838f
+C683 clk _118_/Y 0.008125f
+C684 _086_/Y _104_/C 0.197084f
+C685 _089_/B _109_/C 0.023403f
+C686 s[0] _080_/B 0.030149f
+C687 _121_/D _104_/X 9.8e-20
+C688 a[0] s[0] 3.36e-19
+C689 _123_/D _070_/C 4.82e-21
+C690 _108_/C _109_/B 1.95e-20
+C691 out[0] reset 0.205797f
+C692 _124_/VPB _109_/C 0.418821f
+C693 _086_/B _084_/Y 9.16e-19
+C694 sync reset 1.600514f
+C695 _124_/VPB _075_/Y 0.174681f
+C696 _122_/Q _108_/B 2.51e-20
+C697 a[3] _104_/X 0.005359f
+C698 _076_/C _104_/C 0.108213f
+C699 reset _109_/A 4.26e-20
+C700 _078_/A _122_/D 4.14e-20
+C701 _109_/B out[4] 0.056458f
+C702 _122_/D _084_/C 0.058876f
+C703 _086_/B s[0] 0.020566f
+C704 _104_/C a[2] 0.008581f
+C705 _069_/X _084_/A 0.005627f
+C706 out[0] clkbuf_0_clk/X 9.74e-20
+C707 _124_/D _124_/CLK 0.612125f
+C708 b[2] _080_/C 0.001795f
+C709 sync clkbuf_0_clk/X 0.160246f
+C710 _093_/B _084_/A 0.009598f
+C711 _077_/X b[2] 0.001806f
+C712 clkbuf_0_clk/X _096_/Y 2.26e-19
+C713 _122_/D _121_/D 2.62e-19
+C714 _090_/X _084_/C 5.76e-19
+C715 _118_/Y reset 0.168494f
+C716 _078_/A _080_/Y 0.004645f
+C717 _078_/A _091_/B 8.18e-22
+C718 reset s[1] 5.49e-21
+C719 _078_/A _081_/Y 0.081639f
+C720 _103_/A _084_/Y 0.002524f
+C721 _104_/X _105_/Y 0.100634f
+C722 _091_/B _084_/C 0.37758f
+C723 b[3] _072_/B 0.525791f
+C724 _124_/D _089_/Y 0.008246f
+C725 _124_/VPB b[2] 0.637579f
+C726 b[4] _070_/B 7.57e-19
+C727 a[0] _124_/CLK 6.3e-19
+C728 s[0] _114_/Y 2.44e-20
+C729 _103_/A s[0] 0.330209f
+C730 _121_/D _090_/X 0.040562f
+C731 _123_/D _102_/A 3.09e-20
+C732 _121_/D _080_/Y 2.71e-20
+C733 _081_/Y _121_/D 8.15e-20
+C734 sync _091_/A 1.3e-19
+C735 _091_/B _121_/D 0.003493f
+C736 b[0] out[0] 0.002601f
+C737 _118_/Y clkbuf_0_clk/X 0.199931f
+C738 _091_/A _096_/Y 2.94e-21
+C739 _091_/A _091_/Y 0.301874f
+C740 clkbuf_0_clk/X s[1] 6.79e-20
+C741 sync _077_/X 9.3e-19
+C742 sync b[0] 0.080244f
+C743 _070_/B _070_/C 0.002269f
+C744 a[3] _080_/Y 0.158678f
+C745 b[0] _096_/Y 0.025651f
+C746 _091_/A _109_/A 0.004126f
+C747 b[3] _080_/B 0.247735f
+C748 _077_/X _091_/Y 0.107738f
+C749 _077_/X _096_/Y 0.002849f
+C750 a[3] _081_/Y 0.132075f
+C751 b[0] _109_/A 1.73e-20
+C752 a[0] _089_/Y 2.34e-21
+C753 _077_/X _109_/A 0.035629f
+C754 _122_/D _105_/Y 2.11e-20
+C755 sync _089_/B 0.021282f
+C756 _089_/B _091_/Y 0.158625f
+C757 _089_/B _096_/Y 0.123877f
+C758 _108_/C _084_/C 1.26e-19
+C759 _124_/VPB out[0] 0.665007f
+C760 _123_/CLK _123_/D 0.171325f
+C761 _089_/B _109_/A 0.062101f
+C762 b[1] _091_/A 0.02662f
+C763 _124_/VPB sync 2.972598f
+C764 _075_/Y b[2] 0.002086f
+C765 _124_/VPB _091_/Y 0.13857f
+C766 _124_/VPB _096_/Y 0.57673f
+C767 b[1] _077_/X 6e-19
+C768 _124_/VPB _109_/A 0.341649f
+C769 _091_/A s[1] 0.278142f
+C770 _084_/C out[4] 0.072624f
+C771 _118_/Y b[0] 0.001197f
+C772 _093_/C _084_/C 0.029268f
+C773 b[0] s[1] 0.088692f
+C774 b[1] _089_/B 7.01e-20
+C775 _077_/X s[1] 0.938025f
+C776 _081_/Y _105_/Y 0.003301f
+C777 _091_/B _105_/Y 1.58e-19
+C778 _077_/X _078_/X 0.545215f
+C779 _056_/Y _120_/D 5.77e-20
+C780 _124_/CLK _114_/Y 0.021751f
+C781 _124_/D _109_/B 0.087275f
+C782 _118_/Y _089_/B 4.52e-21
+C783 _103_/A _124_/CLK 0.00163f
+C784 b[4] a[1] 0.135926f
+C785 _124_/VPB b[1] 0.194208f
+C786 _089_/B s[1] 0.118188f
+C787 _121_/D out[4] 0.291056f
+C788 _122_/Q _122_/D 0.158222f
+C789 _100_/Y _070_/C 1.63e-20
+C790 _121_/Q _102_/B 3.34e-20
+C791 _084_/C _061_/X 0.028193f
+C792 clk _124_/CLK 0.001246f
+C793 _124_/VPB _118_/Y 0.358217f
+C794 sync _109_/C 0.001417f
+C795 _124_/VPB s[1] 2.192655f
+C796 _124_/VPB _078_/X 0.117675f
+C797 _123_/D _104_/C 0.005096f
+C798 _096_/Y _109_/C 0.001779f
+C799 b[3] _103_/A 0.056908f
+C800 a[1] _070_/C 5.99e-20
+C801 _109_/C _109_/A 0.620449f
+C802 _123_/D out[3] 0.007699f
+C803 _103_/A _089_/Y 4.38e-19
+C804 _078_/A _072_/Y 0.037518f
+C805 _093_/Y a[1] 0.015125f
+C806 a[0] _109_/B 5.45e-20
+C807 _086_/Y _122_/D 7.69e-20
+C808 a[1] _084_/B 0.129819f
+C809 _121_/D _061_/X 1.41e-20
+C810 s[0] clkbuf_0_clk/X 2.07e-20
+C811 _103_/B _070_/C 3.16e-20
+C812 b[1] _075_/Y 6.72e-20
+C813 _123_/Q _056_/Y 0.289685f
+C814 _072_/Y _121_/D 6.22e-19
+C815 _122_/D _076_/C 1.84e-19
+C816 _117_/Y _121_/D 0.329701f
+C817 s[1] _109_/C 0.172135f
+C818 _075_/Y s[1] 3.95e-20
+C819 _105_/Y out[4] 7.28e-20
+C820 _086_/Y _091_/B 1.54e-20
+C821 _083_/Y _070_/B 1.08e-20
+C822 _122_/D a[2] 5.13e-19
+C823 _077_/X _084_/Y 0.01994f
+C824 a[3] _072_/Y 0.049732f
+C825 a[4] b[4] 0.397122f
+C826 _124_/CLK reset 0.042848f
+C827 s[0] _091_/A 0.025486f
+C828 a[4] _116_/Y 2.73e-20
+C829 s[0] _080_/C 0.187645f
+C830 b[0] s[0] 0.008627f
+C831 _077_/X s[0] 0.92826f
+C832 _081_/Y _076_/C 1.84e-20
+C833 _100_/Y _102_/A 0.00374f
+C834 b[4] _069_/X 0.001568f
+C835 _124_/VPB _084_/Y 0.574277f
+C836 _091_/B _076_/C 0.243314f
+C837 _122_/Q _108_/C 0.001232f
+C838 _089_/B s[0] 0.065387f
+C839 _084_/C _086_/C 0.013184f
+C840 a[1] _102_/A 0.012108f
+C841 a[2] _080_/Y 2.43e-21
+C842 _078_/A _087_/Y 0.002209f
+C843 b[4] _093_/B 0.043632f
+C844 _078_/A _072_/B 0.411385f
+C845 _120_/D _102_/A 2.6e-21
+C846 _103_/A _109_/B 0.109299f
+C847 _109_/B _114_/Y 0.068223f
+C848 _087_/Y _084_/C 0.005435f
+C849 b[1] b[2] 1.102861f
+C850 _124_/CLK clkbuf_0_clk/X 0.014014f
+C851 _124_/VPB s[0] 1.669459f
+C852 _104_/C _070_/B 2.1e-19
+C853 _069_/X _070_/C 0.128889f
+C854 _117_/Y _105_/Y 0.002479f
+C855 _102_/B _084_/A 4.76e-20
+C856 _122_/Q out[2] 0.150163f
+C857 sync out[0] 0.207235f
+C858 b[2] s[1] 0.567717f
+C859 _123_/CLK _100_/Y 1.52e-20
+C860 _102_/A _103_/B 0.00666f
+C861 _093_/B _070_/C 2.68e-19
+C862 sync _096_/Y 0.023382f
+C863 _072_/B _121_/D 0.001537f
+C864 _124_/D _121_/D 4.67e-19
+C865 _093_/Y _093_/B 0.201877f
+C866 _100_/Y _083_/Y 3.46e-19
+C867 sync _109_/A 0.233591f
+C868 _078_/A _080_/B 0.03499f
+C869 _096_/Y _109_/A 6.3e-19
+C870 _093_/B _084_/B 0.312375f
+C871 _123_/CLK _120_/D 0.047892f
+C872 _093_/C _086_/Y 4.21e-21
+C873 _076_/C _108_/C 8.17e-22
+C874 _075_/Y _084_/Y 0.013561f
+C875 a[3] _072_/B 0.044141f
+C876 _124_/CLK _091_/A 3.41e-20
+C877 b[0] _124_/CLK 0.022392f
+C878 _077_/X _124_/CLK 1.82e-20
+C879 s[0] _109_/C 2.23e-19
+C880 b[1] _091_/Y 3.02e-21
+C881 _075_/Y s[0] 1.57e-19
+C882 out[1] _080_/C 1.28e-19
+C883 _123_/D _104_/X 6.17e-20
+C884 _086_/Y _061_/X 4.3e-21
+C885 _118_/Y out[0] 0.004102f
+C886 a[0] _121_/D 0.568632f
+C887 _076_/C out[4] 1.39e-20
+C888 _086_/B _084_/C 6.13e-21
+C889 _093_/C _076_/C 0.009922f
+C890 _120_/D _120_/Q 0.164247f
+C891 sync _118_/Y 0.031709f
+C892 _124_/CLK _089_/B 0.001682f
+C893 _118_/Y _096_/Y 2.59e-20
+C894 sync s[1] 0.292371f
+C895 s[1] _091_/Y 0.024573f
+C896 a[4] _102_/A 0.052662f
+C897 sync _078_/X 2.01e-20
+C898 _096_/Y s[1] 0.283117f
+C899 a[2] out[4] 0.186096f
+C900 _100_/Y _104_/C 0.030238f
+C901 _091_/A _089_/Y 0.051523f
+C902 a[3] _080_/B 0.25748f
+C903 b[3] _080_/C 0.245021f
+C904 b[3] _077_/X 0.007498f
+C905 _124_/VPB _124_/CLK 1.906339f
+C906 s[1] _109_/A 0.00126f
+C907 reset _109_/B 4.9e-20
+C908 _093_/C a[2] 1.46e-19
+C909 b[0] _089_/Y 2.77e-19
+C910 _077_/X _089_/Y 0.0241f
+C911 _072_/B _105_/Y 0.001494f
+C912 _076_/C _061_/X 0.035276f
+C913 _124_/VPB out[1] 0.266317f
+C914 _123_/CLK _123_/Q 0.468504f
+C915 _089_/B _089_/Y 0.298001f
+C916 _084_/Y b[2] 0.038075f
+C917 _093_/B _102_/A 1.67e-21
+C918 _056_/Y _121_/Q 9.87e-21
+C919 b[1] s[1] 0.121116f
+C920 _124_/VPB b[3] 1.159925f
+C921 _124_/VPB _089_/Y 0.159874f
+C922 _078_/A _103_/A 0.067957f
+C923 clkbuf_0_clk/X _109_/B 4.56e-21
+C924 _076_/C _072_/Y 9.13e-21
+C925 _104_/C _103_/B 1.52e-20
+C926 _103_/A _084_/C 0.014525f
+C927 b[2] s[0] 0.086562f
+C928 _078_/X s[1] 0.0027f
+C929 _124_/CLK _109_/C 0.010627f
+C930 a[1] _108_/B 2.28e-19
+C931 _121_/D _114_/Y 0.001113f
+C932 _083_/Y _069_/X 0.002938f
+C933 _103_/A _121_/D 0.053307f
+C934 _123_/D _080_/Y 0.025125f
+C935 _123_/D _081_/Y 0.057949f
+C936 a[3] _103_/A 0.012586f
+C937 _086_/Y _086_/C 0.128637f
+C938 _091_/A _109_/B 3.25e-19
+C939 _089_/Y _109_/C 0.002736f
+C940 _123_/Q out[3] 1.77e-19
+C941 _086_/Y _087_/Y 0.074481f
+C942 _086_/Y _072_/B 4.56e-21
+C943 b[0] _109_/B 2.04e-20
+C944 _077_/X _109_/B 0.018478f
+C945 sync s[0] 0.028219f
+C946 s[0] _091_/Y 3.72e-20
+C947 b[4] _094_/Y 0.001145f
+C948 s[0] _096_/Y 0.029915f
+C949 _089_/B _109_/B 0.026915f
+C950 s[0] _109_/A 0.004975f
+C951 _076_/C _086_/C 3.91e-20
+C952 _102_/A _066_/Y 3.03e-21
+C953 _104_/C _069_/X 0.03027f
+C954 b[1] _084_/Y 0.063268f
+C955 _087_/Y _076_/C 0.108785f
+C956 _076_/C _072_/B 1.11e-21
+C957 _124_/VPB _109_/B 0.759714f
+C958 a[2] _086_/C 0.004456f
+C959 _093_/B _104_/C 1.32e-19
+C960 _084_/Y s[1] 0.002668f
+C961 _103_/A _105_/Y 0.068784f
+C962 b[1] s[0] 0.687226f
+C963 _122_/D _070_/B 1.18e-21
+C964 _072_/B a[2] 0.032326f
+C965 _087_/Y a[2] 0.002973f
+C966 _093_/Y _094_/Y 0.073196f
+C967 a[4] _108_/B 0.115841f
+C968 b[3] b[2] 1.22e-20
+C969 s[0] s[1] 0.552098f
+C970 reset _121_/D 1.19e-19
+C971 _121_/Q _102_/A 6.34e-20
+C972 _078_/X s[0] 0.008294f
+C973 _100_/Y _104_/X 0.025348f
+C974 b[4] _084_/A 0.058403f
+C975 _086_/B _086_/Y 0.196248f
+C976 _070_/B _080_/Y 4.56e-21
+C977 a[2] _080_/B 0.004478f
+C978 _109_/B _109_/C 0.085606f
+C979 _120_/D _104_/X 0.061615f
+C980 sync _124_/CLK 0.051036f
+C981 _093_/B _108_/B 0.001856f
+C982 out[0] out[1] 0.008956f
+C983 _124_/CLK _096_/Y 0.004472f
+C984 _084_/A _070_/C 0.215722f
+C985 _120_/Q _066_/Y 8.87e-21
+C986 _086_/B _076_/C 6.7e-20
+C987 _121_/D clkbuf_0_clk/X 0.257168f
+C988 _122_/Q _114_/Y 1.18e-20
+C989 _124_/CLK _109_/A 0.00912f
+C990 sync out[1] 0.002573f
+C991 _123_/CLK _121_/Q 0.062413f
+C992 _102_/B _070_/C 0.001617f
+C993 _093_/Y _084_/A 1.52e-20
+C994 _084_/B _084_/A 0.171533f
+C995 b[3] out[0] 0.118662f
+C996 _104_/X _103_/B 0.565489f
+C997 _086_/B a[2] 0.085773f
+C998 sync b[3] 8.09e-21
+C999 _078_/A _080_/C 0.05278f
+C1000 sync _089_/Y 1.73e-20
+C1001 _091_/A _084_/C 0.131543f
+C1002 _123_/D _072_/Y 0.21171f
+C1003 _117_/Y _123_/D 8.65e-20
+C1004 _078_/A _077_/X 0.089747f
+C1005 _096_/Y _089_/Y 2.44e-21
+C1006 _089_/Y _091_/Y 0.002791f
+C1007 _103_/A _086_/Y 5.45e-20
+C1008 _102_/A _094_/Y 0.031516f
+C1009 _077_/X _084_/C 0.213299f
+C1010 _089_/Y _109_/A 0.002072f
+C1011 _124_/Q _116_/Y 0.03172f
+C1012 a[1] _122_/D 3.56e-20
+C1013 _124_/CLK s[1] 0.002457f
+C1014 _089_/B _084_/C 0.092374f
+C1015 _121_/D _091_/A 0.067013f
+C1016 _084_/Y s[0] 0.051489f
+C1017 _078_/A _124_/VPB 0.454268f
+C1018 b[0] _121_/D 0.678418f
+C1019 _103_/A _076_/C 0.001319f
+C1020 _077_/X _121_/D 0.00523f
+C1021 _124_/VPB _084_/C 1.238817f
+C1022 _121_/Q _104_/C 7.44e-20
+C1023 _100_/Y _080_/Y 0.156542f
+C1024 _100_/Y _081_/Y 0.078824f
+C1025 _122_/D _103_/B 1.58e-20
+C1026 a[1] _090_/X 3.5e-21
+C1027 a[3] _080_/C 0.575202f
+C1028 b[3] s[1] 0.248809f
+C1029 _103_/A a[2] 4.6e-20
+C1030 a[3] _077_/X 0.032382f
+C1031 b[3] _078_/X 1.24e-21
+C1032 _120_/D _090_/X 1.16e-21
+C1033 _089_/B _121_/D 1.331738f
+C1034 _089_/Y s[1] 0.001639f
+C1035 a[1] _091_/B 4.25e-19
+C1036 _120_/D _091_/B 0.178015f
+C1037 _124_/VPB _121_/D 1.69087f
+C1038 _122_/Q reset 3.98e-20
+C1039 _090_/X _103_/B 9.51e-19
+C1040 _102_/A _102_/B 0.197243f
+C1041 _124_/VPB a[3] 1.509761f
+C1042 _091_/B _103_/B 0.225924f
+C1043 _123_/D _072_/B 0.277965f
+C1044 sync _109_/B 0.418344f
+C1045 _091_/A _105_/Y 0.001245f
+C1046 _084_/C _109_/C 6.62e-19
+C1047 _091_/Y _109_/B 1.26e-20
+C1048 _096_/Y _109_/B 4.11e-20
+C1049 _075_/Y _084_/C 0.210536f
+C1050 a[4] _122_/D 7.68e-19
+C1051 _077_/X _105_/Y 0.084458f
+C1052 _109_/B _109_/A 2.033579f
+C1053 a[1] _108_/C 0.033802f
+C1054 _089_/B _105_/Y 0.003763f
+C1055 _121_/D _109_/C 5.81e-19
+C1056 _122_/D _069_/X 0.007779f
+C1057 _083_/Y _084_/A 0.025059f
+C1058 _123_/D _080_/B 0.09848f
+C1059 _083_/Y _102_/B 0.002969f
+C1060 _124_/VPB _105_/Y 0.190452f
+C1061 _124_/CLK s[0] 0.052413f
+C1062 _122_/D _093_/B 2.73e-20
+C1063 a[1] out[4] 0.359914f
+C1064 s[1] _109_/B 0.040386f
+C1065 _093_/C a[1] 0.087695f
+C1066 b[3] s[0] 0.937462f
+C1067 _091_/B _069_/X 9.36e-21
+C1068 _081_/Y _069_/X 4.63e-19
+C1069 s[0] _089_/Y 6.04e-21
+C1070 b[2] _084_/C 0.006886f
+C1071 _104_/X _066_/Y 0.001829f
+C1072 _103_/B out[4] 1.7e-19
+C1073 _104_/C _084_/A 0.237011f
+C1074 a[1] _061_/X 0.666716f
+C1075 _091_/B _093_/B 0.13578f
+C1076 _104_/C _102_/B 0.006827f
+C1077 _100_/Y _072_/Y 0.00143f
+C1078 _077_/X _086_/Y 0.02138f
+C1079 _124_/VPB _122_/Q 0.093308f
+C1080 _072_/B _070_/B 0.070028f
+C1081 a[4] _108_/C 0.261642f
+C1082 _117_/Y _120_/D 0.089379f
+C1083 _121_/Q _104_/X 8.95e-20
+C1084 a[3] b[2] 2.15e-21
+C1085 _076_/C _091_/A 0.001171f
+C1086 _123_/D _103_/A 0.110056f
+C1087 _078_/A sync 9.87e-21
+C1088 _077_/X _076_/C 0.070663f
+C1089 b[4] _070_/C 0.004003f
+C1090 _124_/VPB _086_/Y 0.240324f
+C1091 a[4] out[4] 0.002141f
+C1092 _084_/C _091_/Y 0.15807f
+C1093 _078_/A _109_/A 3.57e-21
+C1094 _093_/Y b[4] 0.005725f
+C1095 a[4] out[2] 0.37632f
+C1096 _117_/Y _103_/B 2.16e-20
+C1097 _070_/B _080_/B 7.12e-20
+C1098 a[2] _080_/C 4.55e-19
+C1099 b[4] _084_/B 0.025608f
+C1100 _077_/X a[2] 3.22e-20
+C1101 _084_/C _109_/A 3.06e-19
+C1102 _093_/B _108_/C 8.98e-20
+C1103 out[0] _121_/D 0.003287f
+C1104 _124_/VPB _076_/C 0.125842f
+C1105 _124_/CLK _089_/Y 3.56e-20
+C1106 _122_/Q _109_/C 1.27e-20
+C1107 sync _121_/D 0.785747f
+C1108 _121_/D _096_/Y 0.035677f
+C1109 b[3] out[1] 0.090509f
+C1110 a[4] _061_/X 0.010168f
+C1111 s[0] _109_/B 0.00135f
+C1112 _084_/B _070_/C 1.81e-19
+C1113 a[3] out[0] 0.038457f
+C1114 _121_/D _109_/A 0.046109f
+C1115 b[1] _084_/C 0.027692f
+C1116 _093_/B out[4] 7.77e-19
+C1117 _124_/VPB a[2] 0.803493f
+C1118 sync a[3] 3.38e-19
+C1119 _091_/B _066_/Y 0.139024f
+C1120 _093_/C _093_/B 0.206094f
+C1121 _100_/Y _072_/B 0.001261f
+C1122 _078_/A s[1] 0.005701f
+C1123 _117_/Y _123_/Q 2.84e-20
+C1124 _078_/A _078_/X 0.021559f
+C1125 _084_/C s[1] 0.230679f
+C1126 _061_/X _069_/X 4.91e-22
+C1127 _075_/Y _086_/Y 0.117024f
+C1128 b[1] _121_/D 4.11e-22
+C1129 _093_/B _061_/X 0.087095f
+C1130 _123_/D reset 0.007134f
+C1131 _118_/Y _121_/D 6.79e-20
+C1132 _076_/C _109_/C 6.3e-21
+C1133 _121_/D s[1] 0.044412f
+C1134 _091_/B _121_/Q 0.001253f
+C1135 _081_/Y _121_/Q 7.42e-20
+C1136 _078_/X _121_/D 1e-19
+C1137 _072_/Y _069_/X 6.4e-19
+C1138 _075_/Y _076_/C 0.19361f
+C1139 _100_/Y _080_/B 4.58e-20
+C1140 b[4] _102_/A 0.021995f
+C1141 sync _105_/Y 1.01e-19
+C1142 a[3] s[1] 0.69202f
+C1143 _105_/Y _091_/Y 1.53e-20
+C1144 _105_/Y _096_/Y 1.29e-19
+C1145 a[3] _078_/X 9.27e-20
+C1146 _103_/A _070_/B 3.64e-21
+C1147 _075_/Y a[2] 3.15e-19
+C1148 _105_/Y _109_/A 1.56e-19
+C1149 _102_/A _116_/Y 0.001477f
+C1150 _120_/D a[0] 0.056602f
+C1151 _122_/D _094_/Y 0.0333f
+C1152 _102_/A _070_/C 6.56e-20
+C1153 _124_/CLK _109_/B 0.036367f
+C1154 _123_/CLK _056_/Y 0.064241f
+C1155 _104_/X _102_/B 0.056068f
+C1156 _093_/Y _102_/A 0.067965f
+C1157 _086_/Y b[2] 0.038524f
+C1158 _124_/Q _119_/Y 0.09257f
+C1159 _066_/Y out[4] 6.07e-19
+C1160 a[0] _103_/B 3.71e-21
+C1161 _078_/A _084_/Y 6.19e-20
+C1162 b[4] _083_/Y 0.002417f
+C1163 _084_/Y _084_/C 0.178167f
+C1164 _105_/Y s[1] 0.491748f
+C1165 _078_/X _105_/Y 2.25e-19
+C1166 _056_/Y _120_/Q 7.66e-20
+C1167 _091_/B _094_/Y 4.52e-20
+C1168 _089_/Y _109_/B 0.004045f
+C1169 _076_/C b[2] 0.008654f
+C1170 _122_/Q sync 0.402181f
+C1171 _078_/A s[0] 0.048189f
+C1172 _086_/C _069_/X 2.61e-20
+C1173 s[0] _084_/C 0.002112f
+C1174 b[2] a[2] 0.802284f
+C1175 _072_/B _069_/X 0.010608f
+C1176 _087_/Y _069_/X 0.004994f
+C1177 _122_/D _084_/A 0.001879f
+C1178 _083_/Y _070_/C 0.060998f
+C1179 _123_/D _080_/C 3.68e-20
+C1180 _123_/Q a[0] 2.06e-19
+C1181 clkload0/X _091_/B 6.64e-20
+C1182 _123_/D _077_/X 4.52e-19
+C1183 _100_/Y _103_/A 0.0218f
+C1184 _122_/D _102_/B 6.04e-20
+C1185 _087_/Y _093_/B 1.72e-20
+C1186 _083_/Y _084_/B 2.99e-19
+C1187 s[0] _121_/D 0.060694f
+C1188 _103_/A a[1] 4.93e-19
+C1189 _103_/A _120_/D 3.36e-21
+C1190 b[4] _104_/C 0.003765f
+C1191 _124_/VPB _123_/D 1.058458f
+C1192 a[3] s[0] 0.455477f
+C1193 _122_/Q s[1] 2.25e-20
+C1194 _076_/C _091_/Y 4.16e-19
+C1195 _091_/B _084_/A 0.039429f
+C1196 _081_/Y _102_/B 0.001723f
+C1197 _104_/C _070_/C 0.025333f
+C1198 _091_/B _102_/B 1.41e-19
+C1199 _103_/A _103_/B 0.129433f
+C1200 b[1] _086_/Y 0.035409f
+C1201 _124_/Q _122_/D 0.003434f
+C1202 _117_/Y _121_/Q 0.451911f
+C1203 _084_/B _104_/C 1.21e-21
+C1204 _086_/Y s[1] 0.089648f
+C1205 _094_/Y out[4] 0.179688f
+C1206 b[4] _108_/B 0.069532f
+C1207 _123_/CLK _102_/A 2.5e-21
+C1208 _124_/CLK _084_/C 0.005447f
+C1209 b[1] _076_/C 0.004416f
+C1210 _078_/A out[1] 0.002426f
+C1211 s[0] _105_/Y 0.137082f
+C1212 _076_/C s[1] 0.025402f
+C1213 b[1] a[2] 0.086017f
+C1214 _061_/X _094_/Y 0.003412f
+C1215 _078_/A b[3] 0.309051f
+C1216 _124_/CLK _121_/D 5.61e-19
+C1217 _093_/Y _108_/B 2.6e-20
+C1218 _084_/C _089_/Y 4.4e-19
+C1219 a[2] s[1] 0.436595f
+C1220 _120_/D reset 0.01209f
+C1221 _077_/X _070_/B 1.79e-19
+C1222 out[1] _121_/D 0.007517f
+C1223 _103_/A _069_/X 0.078045f
+C1224 _093_/C _084_/A 4.75e-19
+C1225 b[3] _121_/D 0.002846f
+C1226 a[3] out[1] 0.042069f
+C1227 _102_/B out[4] 5.79e-20
+C1228 _124_/VPB _070_/B 0.320955f
+C1229 _121_/D _089_/Y 0.389237f
+C1230 _072_/B _121_/Q 3.75e-21
+C1231 _104_/C _102_/A 1.69e-19
+C1232 _103_/A _093_/B 4.46e-20
+C1233 a[0] _066_/Y 0.186454f
+C1234 b[3] a[3] 1.90448f
+C1235 _120_/D clkbuf_0_clk/X 0.004171f
+C1236 _123_/CLK _120_/Q 2.35e-19
+C1237 _061_/X _084_/A 5.19e-20
+C1238 _084_/Y _086_/Y 0.323921f
+C1239 _119_/Y _116_/Y 1.87e-19
+C1240 _086_/Y s[0] 0.215166f
+C1241 _123_/Q reset 0.004007f
+C1242 _123_/CLK _104_/C 1.52e-21
+C1243 a[0] _121_/Q 7.84e-19
+C1244 _072_/Y _084_/A 5.63e-21
+C1245 _084_/Y _076_/C 0.115588f
+C1246 _123_/CLK out[3] 1.14e-19
+C1247 _100_/Y _080_/C 1.93e-20
+C1248 _072_/Y _102_/B 2.43e-21
+C1249 _100_/Y _077_/X 0.556998f
+C1250 _117_/Y _102_/B 2.44e-20
+C1251 _108_/B _102_/A 0.048263f
+C1252 a[1] _091_/A 0.08976f
+C1253 _083_/Y _104_/C 5.33e-19
+C1254 _078_/A _109_/B 0.002155f
+C1255 _120_/D _091_/A 1.86e-21
+C1256 _084_/Y a[2] 0.018628f
+C1257 _084_/C _109_/B 2.64e-20
+C1258 _077_/X a[1] 1.63e-19
+C1259 _076_/C s[0] 0.034455f
+C1260 _120_/D b[0] 0.301171f
+C1261 _077_/X _120_/D 0.001156f
+C1262 _124_/D _094_/Y 5.27e-20
+C1263 _123_/D out[0] 0.062982f
+C1264 _123_/Q clkbuf_0_clk/X 9.95e-20
+C1265 s[0] a[2] 0.14233f
+C1266 a[1] _089_/B 2.98e-19
+C1267 _124_/VPB _100_/Y 0.228773f
+C1268 _123_/D sync 0.231869f
+C1269 _091_/A _103_/B 0.002233f
+C1270 _120_/D _089_/B 0.005488f
+C1271 _093_/Y _104_/X 1.07e-19
+C1272 b[0] _103_/B 6.74e-22
+C1273 _103_/A _066_/Y 1.08e-20
+C1274 _121_/D _109_/B 0.05064f
+C1275 _124_/VPB a[1] 0.546056f
+C1276 _077_/X _103_/B 0.381088f
+C1277 _124_/VPB _120_/D 0.612707f
+C1278 b[4] _122_/D 0.004326f
+C1279 _089_/B _103_/B 0.011461f
+C1280 _122_/D _116_/Y 0.334075f
+C1281 _086_/C _084_/A 0.002469f
+C1282 _124_/VPB _103_/B 0.558748f
+C1283 _122_/D _070_/C 0.080332f
+C1284 _087_/Y _084_/A 0.210007f
+C1285 b[2] _070_/B 0.028882f
+C1286 _123_/D s[1] 0.024217f
+C1287 _072_/B _084_/A 0.019332f
+C1288 _123_/Q b[0] 0.00141f
+C1289 clkload0/X a[0] 3.95e-21
+C1290 _087_/Y _102_/B 1.36e-20
+C1291 b[4] _090_/X 2.17e-19
+C1292 a[4] _091_/A 6.51e-21
+C1293 _072_/B _102_/B 0.043919f
+C1294 _100_/Y _075_/Y 1.53e-21
+C1295 _093_/Y _122_/D 0.043418f
+C1296 _122_/D _084_/B 4.85e-20
+C1297 b[4] _091_/B 0.004783f
+C1298 a[1] _109_/C 1.26e-19
+C1299 _075_/Y a[1] 6.51e-19
+C1300 _105_/Y _109_/B 0.128609f
+C1301 _091_/A _069_/X 1.47e-21
+C1302 _124_/VPB _123_/Q 0.339318f
+C1303 _080_/B _084_/A 1.3e-20
+C1304 _102_/A _104_/X 0.142692f
+C1305 _081_/Y _070_/C 1.63e-20
+C1306 _077_/X _069_/X 0.001099f
+C1307 _091_/B _070_/C 0.097587f
+C1308 _093_/Y _090_/X 3.91e-20
+C1309 _124_/VPB a[4] 0.640068f
+C1310 _093_/B _091_/A 0.011706f
+C1311 reset _066_/Y 7.37e-21
+C1312 _093_/Y _091_/B 0.322042f
+C1313 _124_/Q _124_/D 0.006115f
+C1314 _089_/B _069_/X 4.08e-22
+C1315 _091_/B _084_/B 0.146095f
+C1316 b[3] a[2] 0.010788f
+C1317 _103_/A _094_/Y 1.01e-20
+C1318 _086_/B _084_/A 0.003826f
+C1319 _089_/B _093_/B 4.03e-21
+C1320 _124_/VPB _069_/X 0.179532f
+C1321 b[4] _108_/C 0.122338f
+C1322 _123_/CLK _104_/X 0.001071f
+C1323 _078_/A _121_/D 0.002232f
+C1324 _124_/VPB _093_/B 0.280487f
+C1325 reset _121_/Q 9.96e-20
+C1326 clkbuf_0_clk/X _066_/Y 0.012642f
+C1327 clkload0/X _114_/Y 4.49e-20
+C1328 _121_/D _084_/C 0.004244f
+C1329 b[1] _070_/B 1.46e-20
+C1330 _083_/Y _104_/X 9.94e-21
+C1331 _122_/D _102_/A 0.022938f
+C1332 b[4] out[4] 0.050766f
+C1333 a[4] _109_/C 0.014289f
+C1334 _078_/A a[3] 0.410275f
+C1335 _093_/C b[4] 0.01479f
+C1336 b[4] out[2] 0.003603f
+C1337 _093_/Y _108_/C 3.82e-20
+C1338 _123_/D s[0] 0.050809f
+C1339 out[2] _116_/Y 6.52e-19
+C1340 _121_/Q clkbuf_0_clk/X 1.42e-19
+C1341 _090_/X _102_/A 3.15e-19
+C1342 _103_/A _084_/A 0.094563f
+C1343 _102_/A _080_/Y 2.74e-21
+C1344 _093_/C _070_/C 1.64e-21
+C1345 b[4] _061_/X 0.034575f
+C1346 sync _100_/Y 1.55e-19
+C1347 a[3] _121_/D 0.003561f
+C1348 _103_/A _102_/B 0.122902f
+C1349 _091_/B _102_/A 0.021557f
+C1350 _091_/A _066_/Y 2.28e-21
+C1351 _081_/Y _102_/A 0.001165f
+C1352 _093_/Y out[4] 0.039597f
+C1353 _093_/B _109_/C 6.16e-20
+C1354 _093_/Y out[2] 3.44e-20
+C1355 _084_/B out[4] 1.67e-20
+C1356 _093_/Y _093_/C 0.044811f
+C1357 _075_/Y _093_/B 0.035358f
+C1358 _104_/C _104_/X 0.077595f
+C1359 b[0] _066_/Y 0.02808f
+C1360 _077_/X _066_/Y 0.007807f
+C1361 _100_/Y _109_/A 0.002481f
+C1362 _093_/C _084_/B 0.068377f
+C1363 _120_/D out[0] 0.010576f
+C1364 a[1] _091_/Y 0.001128f
+C1365 _083_/Y _122_/D 0.457431f
+C1366 _117_/Y _056_/Y 0.007099f
+C1367 sync _120_/D 0.015454f
+C1368 _078_/A _105_/Y 2.55e-20
+C1369 _061_/X _070_/C 0.136869f
+C1370 _120_/D _096_/Y 0.132567f
+C1371 _120_/D _109_/A 3.88e-21
+C1372 _093_/Y _061_/X 0.004514f
+C1373 _084_/B _061_/X 0.07027f
+C1374 sync _103_/B 1.3e-19
+C1375 _124_/VPB _066_/Y 0.497453f
+C1376 _103_/B _091_/Y 9.73e-21
+C1377 _124_/Q _114_/Y 0.046881f
+C1378 clkload0/X reset 0.001313f
+C1379 b[0] _121_/Q 0.007238f
+C1380 _121_/D _105_/Y 1.05e-19
+C1381 _077_/X _121_/Q 2.69e-19
+C1382 _072_/Y _070_/C 0.002129f
+C1383 _103_/B _109_/A 0.077848f
+C1384 b[1] a[1] 0.97973f
+C1385 _100_/Y s[1] 0.152806f
+C1386 _091_/B _083_/Y 0.028416f
+C1387 _100_/Y _078_/X 0.173289f
+C1388 _108_/C _102_/A 0.579747f
+C1389 _122_/D _104_/C 0.001559f
+C1390 b[2] _069_/X 1.19e-20
+C1391 a[1] s[1] 0.207945f
+C1392 _118_/Y _120_/D 0.001969f
+C1393 _120_/D s[1] 0.219791f
+C1394 _123_/D out[1] 0.002577f
+C1395 _120_/Q _091_/B 2.52e-20
+C1396 _123_/Q out[0] 0.07704f
+C1397 _124_/VPB _121_/Q 0.230938f
+C1398 _123_/Q sync 0.377485f
+C1399 s[0] _070_/B 0.00938f
+C1400 _102_/A out[4] 0.137485f
+C1401 out[2] _102_/A 0.001756f
+C1402 _123_/D b[3] 0.066166f
+C1403 sync a[4] 1.15e-19
+C1404 _103_/B s[1] 0.068989f
+C1405 _104_/C _090_/X 3.86e-20
+C1406 _078_/X _103_/B 0.006453f
+C1407 b[4] _086_/C 0.020266f
+C1408 _091_/B _104_/C 6.12e-21
+C1409 _081_/Y _104_/C 0.151133f
+C1410 _078_/A _086_/Y 1.07e-22
+C1411 a[4] _109_/A 8.4e-21
+C1412 b[4] _087_/Y 0.003555f
+C1413 _086_/Y _084_/C 8.99e-20
+C1414 _091_/A _094_/Y 0.043384f
+C1415 b[4] _072_/B 0.001275f
+C1416 _122_/D _108_/B 1.42e-19
+C1417 _102_/A _061_/X 0.014148f
+C1418 _077_/X _094_/Y 0.03489f
+C1419 _091_/Y _069_/X 8.98e-21
+C1420 _124_/D _116_/Y 3.91e-19
+C1421 _086_/C _070_/C 1.57e-20
+C1422 _124_/Q reset 0.113377f
+C1423 _078_/A _076_/C 1.29e-22
+C1424 _087_/Y _070_/C 0.095335f
+C1425 _089_/B _094_/Y 0.021554f
+C1426 _093_/B _091_/Y 0.006433f
+C1427 _072_/B _070_/C 0.064901f
+C1428 _084_/B _086_/C 4.64e-20
+C1429 _076_/C _084_/C 0.033586f
+C1430 _056_/Y a[0] 2.07e-20
+C1431 _093_/Y _087_/Y 0.001857f
+C1432 _117_/Y _102_/A 4.24e-20
+C1433 _124_/VPB _094_/Y 0.295838f
+C1434 _087_/Y _084_/B 2.38e-19
+C1435 a[4] s[1] 0.003028f
+C1436 _084_/C a[2] 0.053561f
+C1437 _091_/B _108_/B 9.76e-21
+C1438 clkload0/X _089_/B 0.001353f
+C1439 b[1] _069_/X 2.99e-21
+C1440 _084_/Y a[1] 1.53e-19
+C1441 _100_/Y s[0] 0.018186f
+C1442 _091_/A _084_/A 3.15e-20
+C1443 _124_/VPB clkload0/X 0.233444f
+C1444 _080_/B _070_/C 1.1e-19
+C1445 s[1] _069_/X 0.001386f
+C1446 b[1] _093_/B 0.221429f
+C1447 _091_/A _102_/B 0.001057f
+C1448 _086_/B b[4] 0.018392f
+C1449 _077_/X _084_/A 0.005568f
+C1450 a[1] s[0] 0.578305f
+C1451 _120_/D s[0] 0.001095f
+C1452 _077_/X _102_/B 0.15858f
+C1453 _093_/B s[1] 0.416175f
+C1454 _123_/CLK _117_/Y 0.262884f
+C1455 _089_/B _084_/A 1.29e-19
+C1456 a[3] a[2] 1.91e-19
+C1457 b[3] _070_/B 8.55e-19
+C1458 _094_/Y _109_/C 0.001048f
+C1459 _086_/B _070_/C 9.95e-21
+C1460 _124_/VPB _084_/A 0.877271f
+C1461 s[0] _103_/B 0.063908f
+C1462 _109_/C VSUBS 0.612953f
+C1463 _114_/Y VSUBS 0.962783f
+C1464 out[4] VSUBS 5.410065f
+C1465 s[1] VSUBS 7.237512f
+C1466 _080_/C VSUBS 0.210326f
+C1467 _080_/B VSUBS 0.230875f
+C1468 _080_/Y VSUBS 0.813547f
+C1469 _116_/Y VSUBS 0.574175f
+C1470 _078_/X VSUBS 0.561837f
+C1471 _077_/X VSUBS 0.886082f
+C1472 _081_/Y VSUBS 0.2333f
+C1473 _117_/Y VSUBS 0.326027f
+C1474 b[0] VSUBS 7.251364f
+C1475 a[0] VSUBS 5.543449f
+C1476 _091_/B VSUBS 1.044745f
+C1477 _103_/A VSUBS 0.969839f
+C1478 _118_/Y VSUBS 0.496042f
+C1479 _066_/Y VSUBS 0.177751f
+C1480 _089_/B VSUBS 0.619424f
+C1481 _061_/X VSUBS 0.248957f
+C1482 _086_/C VSUBS 0.077176f
+C1483 _070_/C VSUBS 1.177012f
+C1484 _084_/A VSUBS 0.897549f
+C1485 _069_/X VSUBS 0.163817f
+C1486 _086_/Y VSUBS 0.236204f
+C1487 _084_/Y VSUBS 0.208789f
+C1488 _075_/Y VSUBS 0.200847f
+C1489 _087_/Y VSUBS 0.261341f
+C1490 _122_/D VSUBS 2.655722f
+C1491 _083_/Y VSUBS 0.131437f
+C1492 _124_/CLK VSUBS 1.514261f
+C1493 a[3] VSUBS 6.300282f
+C1494 b[3] VSUBS 10.76367f
+C1495 _100_/Y VSUBS 0.436502f
+C1496 _102_/B VSUBS 0.223125f
+C1497 _103_/B VSUBS 0.323766f
+C1498 _109_/A VSUBS 0.709088f
+C1499 clkbuf_0_clk/X VSUBS 2.571916f
+C1500 _104_/C VSUBS 0.410551f
+C1501 _104_/X VSUBS 1.225556f
+C1502 _102_/A VSUBS 1.602266f
+C1503 _105_/Y VSUBS 0.290482f
+C1504 _122_/Q VSUBS 0.94597f
+C1505 b[2] VSUBS 4.254143f
+C1506 _056_/Y VSUBS 0.51614f
+C1507 _123_/Q VSUBS 0.552069f
+C1508 _123_/D VSUBS 1.21984f
+C1509 _123_/CLK VSUBS 2.292976f
+C1510 _109_/B VSUBS 0.3016f
+C1511 _119_/Y VSUBS 0.759502f
+C1512 _124_/Q VSUBS 0.274105f
+C1513 _124_/D VSUBS 0.527483f
+C1514 _070_/B VSUBS 0.275752f
+C1515 a[2] VSUBS 5.282753f
+C1516 _072_/B VSUBS 0.518837f
+C1517 _072_/Y VSUBS 0.491355f
+C1518 _108_/C VSUBS 0.168392f
+C1519 _108_/B VSUBS 0.299552f
+C1520 reset VSUBS 5.846168f
+C1521 _084_/C VSUBS 0.344585f
+C1522 _091_/A VSUBS 1.247692f
+C1523 _090_/X VSUBS 0.255721f
+C1524 _091_/Y VSUBS 0.131028f
+C1525 _084_/B VSUBS 0.166508f
+C1526 _093_/B VSUBS 0.422236f
+C1527 _078_/A VSUBS 1.057112f
+C1528 _086_/B VSUBS 0.121981f
+C1529 _076_/C VSUBS 0.678449f
+C1530 _093_/C VSUBS 0.116171f
+C1531 _093_/Y VSUBS 0.85469f
+C1532 _094_/Y VSUBS 0.097819f
+C1533 _089_/Y VSUBS 0.117779f
+C1534 s[0] VSUBS 7.402159f
+C1535 _096_/Y VSUBS 0.132474f
+C1536 clk VSUBS 6.795058f
+C1537 b[4] VSUBS 6.739753f
+C1538 a[4] VSUBS 5.311346f
+C1539 sync VSUBS 6.303854f
+C1540 out[3] VSUBS 3.46126f
+C1541 clkload0/X VSUBS 0.324218f
+C1542 out[2] VSUBS 3.911605f
+C1543 _121_/Q VSUBS 2.208128f
+C1544 _121_/D VSUBS 2.604716f
+C1545 out[1] VSUBS 6.676496f
+C1546 _120_/Q VSUBS 0.834487f
+C1547 _120_/D VSUBS 0.935645f
+C1548 out[0] VSUBS 5.242314f
+C1549 _124_/VPB VSUBS 92.74447f
+C1550 b[1] VSUBS 4.432098f
+C1551 a[1] VSUBS 8.276212f
+.ends
+

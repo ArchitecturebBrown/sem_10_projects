@@ -1,0 +1,15 @@
+# 1. Read your design
+read_verilog /home/asiclab/shams_sem10/sta_tut/Lab8/reports_lab7_aya/final_layout.v
+
+# 2. Elaborate hierarchy - tell Yosys to keep cells it doesn't recognize
+hierarchy -check -top Lut -libdir . 
+
+# 3. Flatten the design
+# This dissolves the module boundaries
+flatten
+
+# 4. Clean up the internal nets and "assign" statements
+opt_clean -purge
+
+# 5. Write the simplified, flat Verilog
+write_verilog -noexpr -noattr -simple-lhs Lut_flat.v
