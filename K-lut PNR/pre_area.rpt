@@ -1,0 +1,71 @@
+
+ /----------------------------------------------------------------------------\
+ |  yosys -- Yosys Open SYnthesis Suite                                       |
+ |  Copyright (C) 2012 - 2024  Claire Xenia Wolf <claire@yosyshq.com>         |
+ |  Distributed under an ISC-like license, type "license" to see terms        |
+ \----------------------------------------------------------------------------/
+ Yosys 0.46 (git sha1 e97731b9dda91fa5fa53ed87df7c34163ba59a41, clang++ 17.0.6 -fPIC -O3)
+Loaded SDC plugin
+
+-- Running command `read_liberty -lib /home/asiclab/.ciel/ciel/sky130/versions/0fe599b2afb6708d281543108caf8310912f54af/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib; read_verilog Lut_netlist.v; hierarchy -check -top Lut; stat -liberty /home/asiclab/.ciel/ciel/sky130/versions/0fe599b2afb6708d281543108caf8310912f54af/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib' --
+
+1. Executing Liberty frontend: /home/asiclab/.ciel/ciel/sky130/versions/0fe599b2afb6708d281543108caf8310912f54af/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+Imported 428 cell types from liberty file.
+
+2. Executing Verilog-2005 frontend: Lut_netlist.v
+Parsing Verilog input from `Lut_netlist.v' to AST representation.
+Generating RTLIL representation for module `\Lut'.
+Successfully finished Verilog frontend.
+
+3. Executing HIERARCHY pass (managing design hierarchy).
+
+3.1. Analyzing design hierarchy..
+Top module:  \Lut
+
+3.2. Analyzing design hierarchy..
+Top module:  \Lut
+Removed 0 unused modules.
+
+4. Printing statistics.
+
+=== Lut ===
+
+   Number of wires:                 64
+   Number of wire bits:             85
+   Number of public wires:          64
+   Number of public wire bits:      85
+   Number of ports:                  7
+   Number of port bits:             20
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 70
+     sky130_fd_sc_hd__a21o_1         1
+     sky130_fd_sc_hd__a21oi_1        7
+     sky130_fd_sc_hd__a31oi_1        2
+     sky130_fd_sc_hd__clkinv_1       6
+     sky130_fd_sc_hd__dfrtp_1        5
+     sky130_fd_sc_hd__lpflow_inputiso1p_1      1
+     sky130_fd_sc_hd__lpflow_isobufsrc_1      3
+     sky130_fd_sc_hd__maj3_1         3
+     sky130_fd_sc_hd__mux2_1         4
+     sky130_fd_sc_hd__nand2_1        4
+     sky130_fd_sc_hd__nand2b_1       4
+     sky130_fd_sc_hd__nand3_1        1
+     sky130_fd_sc_hd__nor2_1         7
+     sky130_fd_sc_hd__nor2b_1        1
+     sky130_fd_sc_hd__nor3_1         4
+     sky130_fd_sc_hd__o21ai_0        5
+     sky130_fd_sc_hd__o22ai_1        1
+     sky130_fd_sc_hd__o31ai_1        1
+     sky130_fd_sc_hd__o41a_1         1
+     sky130_fd_sc_hd__or3_1          1
+     sky130_fd_sc_hd__xnor2_1        4
+     sky130_fd_sc_hd__xor2_1         4
+
+   Chip area for module '\Lut': 526.755200
+     of which used for sequential elements: 125.120000 (23.75%)
+
+End of script. Logfile hash: e83df5627a, CPU: user 0.45s system 0.04s, MEM: 60.83 MB peak
+Yosys 0.46 (git sha1 e97731b9dda91fa5fa53ed87df7c34163ba59a41, clang++ 17.0.6 -fPIC -O3)
+Time spent: 46% 1x stat (0 sec), 45% 2x read_liberty (0 sec), ...
