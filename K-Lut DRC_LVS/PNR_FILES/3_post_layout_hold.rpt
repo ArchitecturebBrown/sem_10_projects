@@ -1,0 +1,57 @@
+Startpoint: reset (input port clocked by clk)
+Endpoint: _123_ (removal check against rising-edge clock clk)
+Path Group: asynchronous
+Path Type: min
+
+  Delay    Time   Description
+---------------------------------------------------------
+   0.00    0.00   clock clk (rise edge)
+   0.00    0.00   clock network delay (propagated)
+   2.00    2.00 v input external delay
+   0.04    2.04 v reset (in)
+   0.05    2.08 ^ _056_/Y (sky130_fd_sc_hd__clkinv_1)
+   0.00    2.08 ^ _123_/RESET_B (sky130_fd_sc_hd__dfrtp_1)
+           2.08   data arrival time
+
+   0.00    0.00   clock clk (rise edge)
+   0.29    0.29   clock network delay (propagated)
+   0.00    0.29   clock reconvergence pessimism
+           0.29 ^ _123_/CLK (sky130_fd_sc_hd__dfrtp_1)
+   0.31    0.61   library removal time
+           0.61   data required time
+---------------------------------------------------------
+           0.61   data required time
+          -2.08   data arrival time
+---------------------------------------------------------
+           1.48   slack (MET)
+
+
+Startpoint: s[0] (input port clocked by clk)
+Endpoint: _120_ (rising edge-triggered flip-flop clocked by clk)
+Path Group: clk
+Path Type: min
+
+  Delay    Time   Description
+---------------------------------------------------------
+   0.00    0.00   clock clk (rise edge)
+   0.00    0.00   clock network delay (propagated)
+   2.00    2.00 v input external delay
+   0.04    2.04 v s[0] (in)
+   0.11    2.15 ^ _096_/Y (sky130_fd_sc_hd__nor2_1)
+   0.11    2.25 v _097_/Y (sky130_fd_sc_hd__o22ai_1)
+   0.00    2.25 v _120_/D (sky130_fd_sc_hd__dfrtp_1)
+           2.25   data arrival time
+
+   0.00    0.00   clock clk (rise edge)
+   0.29    0.29   clock network delay (propagated)
+   0.00    0.29   clock reconvergence pessimism
+           0.29 ^ _120_/CLK (sky130_fd_sc_hd__dfrtp_1)
+  -0.07    0.23   library hold time
+           0.23   data required time
+---------------------------------------------------------
+           0.23   data required time
+          -2.25   data arrival time
+---------------------------------------------------------
+           2.03   slack (MET)
+
+
